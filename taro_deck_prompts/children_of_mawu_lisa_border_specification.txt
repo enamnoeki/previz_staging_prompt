@@ -1,0 +1,139 @@
+CHILDREN OF MAWU-LISA — BORDER SPECIFICATION
+Reusable Spec for All Card Types
+PUPPET-MODE PREVIZ EDITION
+
+
+PURPOSE OF THIS DOCUMENT
+
+This is a shared specification for the border treatment used across every card in the Children of Mawu-Lisa deck — Major Arcana, Minor Arcana, Cover, and Back. The border is a real physical element in the puppet maquette stage, not a digital post-production overlay. It should be built, lit, and photographed as part of the previz scene.
+
+Reference this document any time you generate a card. Append the BORDER PHYSICAL SPEC paragraph (below) to the AI VISUALIZATION GUIDANCE section of any card prompt to ensure the border renders consistently.
+
+
+BORDER DESIGN SUMMARY
+
+Universal across the deck:
+- Clean rectangular black line frame around every card
+- Modest corner ornaments at all four corners, drawn in a style inspired by Dahomey appliqué and Adinkra symbols (NOT European Art Nouveau botanicals)
+- Corner ornaments rendered in gold or ochre
+- Main frame line rendered in black
+- Crisp clean paper background (not aged, not weathered)
+- Same black line work universal across all 18 cards plus cover and back
+
+Card-specific text within the border:
+- Major Arcana: Roman numeral at top center inside the frame, card name in a bottom banner ("THE HIGH PRIESTESS")
+- Minor Arcana: Card name only in a bottom banner ("ACE OF CUPS"), no top numeral
+- Cover: Title "CHILDREN OF MAWU-LISA" — placement varies by cover option, see Cover & Back Staging Brief
+- Back: No text
+
+
+CORNER ORNAMENT MOTIF OPTIONS
+
+The corner ornaments should be drawn in a style that reads as West African cosmological — small, graphic, NOT botanical or floral. Pick one of these motif families and use it consistently across the deck (do not mix multiple motif styles within the same deck):
+
+Option 1 — Coiled Serpent Curl:
+A small spiral or coil reading as a miniature Aido-Hwedo. Ties every card to the deck's serpentine cosmological core. The most narrative motif.
+
+Option 2 — Stylized Cowrie:
+A small cowrie shape (small oval with a slit down the center). Ties to the deck's beadwork tradition and to Sakpata / earth associations. The most ancestral motif.
+
+Option 3 — Sun-Moon Half Emblem:
+A tiny circle split half-and-half — half sun rays, half moon crescent. Ties to the deck's Mawu-Lisa duality at miniature scale. The most cosmologically-pure motif.
+
+Option 4 — Adinkra-Adjacent Geometric Symbol:
+A small geometric motif inspired by but not directly copying Adinkra symbols. Could be a curl, a triangle nest, or a stylized star. The most graphic / abstract motif.
+
+RECOMMENDED: Option 1 (Coiled Serpent Curl) for narrative continuity with the deck's Aido-Hwedo back design. The corner curls echo the back's full serpent at miniature scale, creating visual repetition across the deck that reinforces the cosmological logic.
+
+The corner ornament should be:
+- Modest in size — occupying roughly 1/15th to 1/12th the height of the card edge
+- Drawn in gold or ochre line work, NOT filled solid
+- Identical at all four corners (mirrored where appropriate so each corner reads as "facing outward")
+- Visually distinct from the figures and props in the illustration plane — the corner ornament is on the FRAME plane, not the illustration plane
+
+
+BANNER TREATMENT FOR CARD NAMES
+
+The bottom banner holding the card name:
+- Horizontal rectangular band running across the lower frame area
+- Set inside the inner frame line, NOT overlapping the illustration
+- Background of the banner: same crisp clean paper as the card body, OR a slightly tinted band (very faint gold-ochre wash) to set the text apart
+- Border line of the banner: thin black line consistent with the main frame
+- Text style: serif capital letters, black ink, centered
+- Text size: readable at deck-card scale (approximately 2.75 x 4.75 inches finished size)
+
+The Roman numeral position (Majors only):
+- Centered at the top of the card
+- Inside the inner frame
+- Could sit inside a small circle, scroll, or simple flourish — or stand alone
+- Same gold/ochre tone as corner ornaments for visual unity, OR black to match the frame line
+- Note: the artist will replace standard Roman numerals with a West African numeral system in post-production. Generate with placeholder Roman numerals (I, II, III, IV, V, VI, VII, VIII) so the position and size are correct for later substitution.
+
+
+COVER TITLE PLACEMENT BY OPTION
+
+The cover title "CHILDREN OF MAWU-LISA" placement varies by which cover option is selected:
+
+- Cover Option A (Sketch 1 — split body figure with serpent embrace): Title in horizontal banner at the TOP of the card, above the figure's combined halo. Top-banner placement keeps the central composition (split body + serpent embrace) uncluttered.
+- Cover Option B (Sketch 2 — layered Mawu and Lisa): Title in BOTTOM banner. Top space is occupied by the dual halos.
+- Cover Option C (Sketch 3 — single figure with split markings): Title in BOTTOM banner. Top space is occupied by the combined halo.
+- Cover Option D (Sketch 4 — Aido-Hwedo Ouroboros around earth): Title INSIDE the serpent's embracing curve, below the earth disc, centered. Use the negative space created by the serpent's S-curve as the title's natural home.
+
+
+BORDER PHYSICAL SPEC (paste into AI VISUALIZATION GUIDANCE)
+
+Use this paragraph as a standard append at the end of every card's AI VISUALIZATION GUIDANCE section so the border renders consistently across the deck:
+
+"The card is framed by a tabletop physical border element constructed from cardstock or thin wood, mounted as the outermost frame plane in front of the puppet stage. The frame is a clean rectangular black line running around the card edge. Modest gold or ochre corner ornaments — small coiled-serpent curl motifs inspired by Dahomey appliqué and Adinkra symbols — sit at all four corners of the frame, mirrored so each curls outward. Inside the frame's bottom edge, a horizontal banner holds the card's name in black serif capital letters (e.g., 'THE HIGH PRIESTESS' for Majors, 'ACE OF CUPS' for Minors). For Major Arcana cards only, a centered Roman numeral sits at the top of the frame inside a small ornamental scroll. The border element is crisp clean paper — NOT aged, weathered, or distressed. The frame reads as a physically built tabletop element, lit by the same practical lamps as the puppet stage."
+
+
+BORDER PHYSICAL STAGING APPROACH (maquette construction)
+
+How to build the border element if doing physical maquettes:
+- Cut a single rectangular frame from heavy cardstock or 1/16" plywood, dimensions proportional to the tarot card aspect ratio (approximately 5:9 width-to-height when scaled to fit the maquette)
+- Draw the black frame line in fine-tip black marker or ink along the inner edge of the frame element
+- Hand-draw or stamp the corner ornaments in gold or ochre ink at all four corners
+- Cut a thin horizontal slot at the bottom of the frame to hold a removable banner card with the card name on it (this lets you reuse the same frame across multiple cards by swapping the banner)
+- Cut a small slot at the top of Major Arcana frame elements to hold a removable Roman numeral
+- Mount the frame element approximately 1/2 inch in front of the puppet stage on small wooden blocks or museum putty so it sits as the outermost plane
+- The frame element should be lit by the same key/fill lamps as the puppet stage, so the lighting feels unified
+
+
+LAYERED CUTOUT PLANE FOR THE BORDER
+
+When listing layered cutout planes in a card brief, add the border element as the OUTERMOST plane (closest to the camera). Example for a card that previously had four planes:
+
+Before adding border:
+- Plane 1: backdrop
+- Plane 2: midground silhouette
+- Plane 3: puppet
+- Plane 4: foreground props
+
+After adding border:
+- Plane 1: backdrop
+- Plane 2: midground silhouette
+- Plane 3: puppet
+- Plane 4: foreground props
+- Plane 5: BORDER FRAME (outermost, closest to camera, framing the entire scene)
+
+
+LIGHTING NOTE FOR THE BORDER
+
+The border is a physical element on the maquette stage, so it should be lit by the same lamps as the rest of the scene. However:
+- The border itself should NOT cast strong shadows onto the puppet stage behind it — keep the frame element thin enough that it sits flush with the outermost lighting plane
+- The gold/ochre corner ornaments should catch the warm side of any split-gel lighting (e.g., on Lovers card with cool/warm split, the gold corners catch the warm side more strongly)
+- For cool-dominant scenes (High Priestess, Wheel of Fortune), the gold corners provide a small warm accent that prevents the card from feeling visually one-note
+
+
+NEGATIVE PROMPTS RELATED TO THE BORDER
+
+Add these to the standard NEGATIVE PROMPTS list when relevant:
+
+"European Art Nouveau botanical border, ornate floral filigree, Victorian decorative frame, gilded ornate gold frame, aged parchment, weathered paper, distress marks, dust spots, vintage stained paper, baroque ornamentation"
+
+
+REFERENCE PRIORITY NOTE
+
+Use traditional tarot card layouts (Rider-Waite-Smith, Marseille) as a STRUCTURAL reference for border proportions and text placement only — NOT as a stylistic reference. The Children of Mawu-Lisa border departs from European decorative traditions in favor of West African (Dahomey appliqué, Adinkra) motif language. The frame structure is RWS-inspired in cleanness; the ornaments are West African in origin.
+
+END OF BORDER SPECIFICATION

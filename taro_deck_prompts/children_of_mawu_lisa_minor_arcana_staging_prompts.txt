@@ -1,0 +1,853 @@
+CHILDREN OF MAWU-LISA — MINOR ARCANA STAGING PROMPTS
+Cinematic Previsualization Brief — 8 Cards (2 per suit)
+PUPPET-MODE PREVIZ EDITION
+
+
+HOW TO USE THIS DOCUMENT
+
+This is the companion brief to the Major Arcana document. It covers 8 Minor Arcana cards (2 per suit: Ace and one feature card per suit).
+
+This file contains three layers:
+
+1. CHASSIS INHERITANCE NOTE — this Minor Arcana brief inherits the full SHARED CHASSIS from the Major Arcana document (puppet construction rules, articulated hands, sculpted head geometry, AVOID list, thumbnail workflow). When using these prompts, paste the Major Arcana chassis FIRST, then the relevant card prompt from this file.
+
+2. MINOR ARCANA SPECIFIC NOTES — register shift, suit palettes, new rig definition. Paste this section AFTER the Major Arcana chassis when prototyping any Minor Arcana card.
+
+3. 8 CARD PROMPTS — each self-contained, each following the full staging template, with floorplans on the two spatially complex cards.
+
+TWO DELIVERABLES, ONE BRIEF (same as Major Arcana):
+This document describes the PREVIZ STAGE only — tabletop puppet photography. The eventual finished illustration style (Dahomey appliqué, Krobo beadwork, manga face readability) appears at the bottom of each card under FINAL ILLUSTRATION TARGET and should NOT influence the previz render.
+
+
+CHASSIS INHERITANCE NOTE
+
+Before generating any card from this file, paste the SHARED CHASSIS section from the Major Arcana document at the top of your session. That chassis defines:
+- Puppet-mode previz framing (tabletop maquette, not character illustration)
+- Wooden artist's puppets with visible ball joints
+- Articulated wooden hand mannequins with individual posable fingers
+- Sculpted wooden heads with jawline, chin, nose ridge, and shallow indented eye sockets (no painted features)
+- The AVOID list (anime, character render, 3D model, smooth CGI skin, etc.)
+- The four reusable rigs (A: Throne, B: Mirror, C: Cosmic Emblem, D: Transformation)
+- The thumbnail workflow
+
+
+
+----------------
+SHARED CHASSIS
+----------------
+
+Act as a cinematographer and visual layout artist working on a tarot deck called Children of Mawu-Lisa, rooted in Ewe cosmology. Generate staging, blocking, and composition ideas as cinematic previsualization — tabletop maquette photography using wooden artist's puppets, cloth scraps, paper cutouts, and practical set lighting. The goal is NOT finished illustration. The goal is NOT a character render. The goal is symbolic readability, ceremonial blocking, graphic composition hierarchy, and theatrical emotional staging captured as visibly handmade puppet photography on a small physical stage.
+
+PREVIZ RENDER REQUIREMENT (applies to every card):
+The image should read as a photograph of a small tabletop set. Puppets are posable wooden artist's dolls with visible ball joints at shoulders, elbows, hips, and knees, AND articulated wooden hand mannequins attached at the wrists with individual posable wooden fingers. Hands should read as separate jointed wooden pieces, not the mitten-shaped hands of standard artist's dolls. Puppet heads are sculpted wooden forms with defined jawlines and chins — closer to a lay figure or stop-motion armature head than the smooth egg-shaped head of a standard artist's doll. Heads have basic sculpted facial geometry — a defined jawline and chin, a nose ridge with visible nostrils suggested, and shallow indented eye sockets where the eyes would sit — but no painted features (no irises, no eyebrows, no lips). Any face markings called for in a specific card (moon dots, sun motifs, ancestral lines, pock-motifs) are painted directly onto the bare wooden surface over this sculpted geometry. Puppets are dressed in cloth scraps and paper costume elements. Backdrops are painted paper or fabric. Props are obviously handmade — cardboard, foil, dowel rods, found objects. Lighting is practical lamps with colored gels. The viewer should be able to tell it is a maquette, not an illustration.
+
+STAGING APPROACH:
+Treat every scene as a ceremonial tableau / miniature stage play / sacred poster composition / theatrical symbolic freeze-frame — built as a physical tabletop diorama.
+
+PRIORITIES:
+Readable silhouettes, emotional clarity, strong focal hierarchy, reusable staging setups, minimal clutter, symbolic object placement, iconic tarot framing, simplified environmental design.
+
+AVOID:
+Realism-first rendering, character illustration, anime or manga character renders, 3D character models, stylized human figures, smooth CGI skin, finished illustration, busy backgrounds, decorative clutter, dynamic perspective distortion unless narratively necessary.
+
+REUSABLE MAQUETTE RIGS (build once, reuse across grouped cards):
+- RIG A — Throne / Icon Rig: seated wooden puppet on cardboard throne block, frontal symmetrical staging, top-down or side-key lighting, hanging halo cutout overhead. Prototypes High Priestess, Empress, Emperor (and Queen of Swords/Pentacles when you build them).
+- RIG B — Duality / Mirror Rig: two wooden puppets facing each other on centerline, split-gel lighting (cool/warm), reflective acrylic floor or mirror panel between them. Prototypes The Lovers (and Two of Cups).
+- RIG C — Cosmic Emblem Rig: no figure. Circular paper cutout or coiled rope on dark cloth, overhead light rig, radial composition. Prototypes Wheel of Fortune (and Card Back).
+- RIG D — Transformation / Power Rig: wooden puppet with raffia/cloth silhouette extensions, low side key with red or amber gel, textured paper ground, optional torn-paper smoke and flashlight lightning streaks. Prototypes Death, Tower, Sun, Knight of Wands.
+
+THUMBNAIL WORKFLOW RECOMMENDATION:
+Before any AI generation or final render, produce 3 value thumbnails per card (2x3 inch, grayscale, 5-minute limit each) testing silhouette clarity at deck-size (approximately 2.75 x 4.75 in). If the silhouette doesn't read at thumbnail scale, the staging fails — revise blocking before adding any detail.
+
+
+
+------
+Then paste the MINOR ARCANA SPECIFIC NOTES below.
+
+Then paste the relevant card prompt.
+
+
+MINOR ARCANA SPECIFIC NOTES — PASTE SECOND
+
+REGISTER SHIFT — IMPORTANT:
+Minor Arcana cards are NOT deity portraits. The Majors depict named cosmological figures (Mawu, Lisa, Nana Buluku, Sakpata, Sogbo) with monumental, iconic gravity. The Minors depict spirits, attendants, or human stand-ins within each Tro's elemental domain. They are:
+- More accessible than Majors — closer to human scale, less monumental
+- More emotionally expressive — wider range of gestures and gazes
+- More environmentally grounded — placed inside the Tro's element (water, fire, sky, earth) rather than against neutral symbolic voids
+- Still puppet-mode previz — same wooden puppets, same articulated hands, same sculpted heads with no painted features
+
+Court cards (Knight of Wands, Queen of Swords, Queen of Pentacles) sit between these poles: they are named figures within their Tro's domain (warriors, queens) but not the deities themselves. Render them as elevated but not monumental — slightly grander than pip figures, clearly less imposing than Majors.
+
+SUIT PALETTES (apply per suit throughout):
+- Cups (Agbe — Water): deep blues, aqua, silver, white-clay accents. Backgrounds incorporate water in some form — rippled surfaces, riverbanks, reflections.
+- Wands (Sogbo — Fire): deep reds, ochres, dark purples, gold accents, lightning whites. Backgrounds incorporate storm sky, smoke, or fire glow.
+- Swords (Djo — Wind): cool grays, sky blues, soft whites, silver accents. Backgrounds incorporate clouds, wind streaks, open sky.
+- Pentacles (Sakpata / Age — Earth): rich browns, deep greens, gold, ochre, warm earth tones. Backgrounds incorporate fertile ground, growing plants, garden archways.
+
+NEW RIG ADDED FOR MINORS:
+- RIG E — Elemental Hand Rig: no full figure. A single oversized wooden puppet hand (articulated, with individual fingers visible) emerges from an elemental field — water surface, storm clouds, wind clouds, or fertile earth. The hand holds or offers the suit object (calabash, sprouting wand, blade, golden disc). Background is the elemental field itself, treated as a layered cutout or textured backdrop. Prototypes all four Aces (Cups, Wands, Swords, Pentacles). Reuse logic: same isolated articulated hand prop, redressed with different elemental backdrops and different suit objects across the four Aces. Build once, redress four times.
+
+EXISTING RIGS USED IN THE MINORS:
+- RIG A (Throne / Icon): Queen of Swords, Queen of Pentacles
+- RIG B (Duality / Mirror): Two of Cups (variant — kneeling figures across water instead of mirrored standing figures)
+- RIG D (Transformation / Power, kinetic variant): Knight of Wands
+
+FLOORPLAN USAGE FOR MINORS:
+Floorplans are included only for the two cards with multi-figure or multi-element spatial complexity:
+- Two of Cups (two figures, river between, calabashes exchanging mid-frame)
+- Knight of Wands (rider, mount, raised staff, trailing banner, smoke)
+
+Aces and Queens skip floorplans because their compositions are centered, single-element, and unambiguous from prose.
+
+
+CARD 1 — ACE OF CUPS
+Rig: E — Elemental Hand
+Suit: Cups (Agbe — Water)
+
+SCENE PURPOSE:
+New emotional opening. Love and intuition flowing in. A sacred offering from the water itself.
+
+ENVIRONMENT:
+Rippled water in deep teal, fading to lighter blue at the top of frame. The water surface IS the ground plane. No horizon, no architecture — the whole environment is the water Tro's domain rising up.
+
+CAMERA:
+Straight-on medium shot, slightly low. Camera at water-surface level looking very slightly up at the emerging hand. Stable, no tilt.
+
+CHARACTER ACTION:
+A single oversized wooden puppet hand (articulated, with individual posable fingers) emerges from the water surface, palm up, fingers cupped, holding a calabash overflowing with water.
+
+FOCAL POINT:
+The overflowing calabash on the wooden hand. Water spilling over the rim catches the eye and leads it downward into the rippled surface.
+
+SPATIAL BLOCKING:
+Centered vertical composition. Hand and forearm rise from lower-third of frame, calabash at center-frame, water overflow trailing downward back into the surface. Small details (water lily, fish, descending bird) scatter at edges without crowding the center.
+
+OBJECT POSITIONING:
+Calabash centered on the wooden palm. Water lily floats on the surface to the left of the hand. Small fish leaps to the right of the hand, mid-arc. Kingfisher or dove descends from upper frame holding a paper leaf — small, off-center upper-left or upper-right.
+
+COMPOSITION NOTES:
+Strong central vertical anchored by the hand and calabash. Soft circular motion implied by the water ripples radiating outward. Negative space at top of frame for the descending bird.
+
+LIGHTING:
+Cool reflective lighting. Soft blue-white key from upper-front, with secondary reflections bouncing off the water surface back onto the underside of the wooden hand. No warm tones.
+
+SYMBOLIC OBJECTS:
+- Overflowing calabash on the wooden hand
+- Small water lily on the surface
+- Small fish leaping
+- Kingfisher or dove descending with a paper leaf in beak
+
+MOOD / INFLUENCE:
+Sacred tenderness. Abundant freshness. The water Tro offering itself.
+
+READABILITY GOAL:
+Audience must feel sacred overflow. Silhouette reads at thumbnail as: single vertical hand with rounded calabash at top, water rippling at base.
+
+PERSPECTIVE GRID:
+1-point perspective, vanishing point centered behind the hand at calabash height. Water surface tilts slightly toward camera for visibility.
+
+CHARACTER ORIENTATION:
+Hand emerges straight up from the water, palm rotated toward camera. Wooden fingers visible and individually articulated, cradling the calabash from below.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Single articulated wooden hand mannequin (forearm and hand only), mounted upright through a hole cut in a sheet of textured blue paper or thin acrylic representing the water surface
+- Small clay or wooden bowl as calabash prop, with real water or clear acrylic gel for overflow effect
+- Layered acetate ripples placed concentrically around the hand on the water surface
+- Paper water lily, small toy fish on monofilament, paper bird prop suspended above
+- Reflective foil scraps under the water sheet to catch downward light
+
+LAYERED CUTOUT IDEAS:
+Four planes — (1) deep teal-to-light-blue gradient backdrop, (2) bird descending from upper frame, (3) emerging wooden hand with calabash, (4) water surface plane with lily, fish, and ripples in foreground.
+
+ACRYLIC GRID SUGGESTION:
+Centered vertical axis. Calabash on upper-third horizontal. Water surface on lower-third horizontal. Bird positioned on upper-third intersection (left or right, not center).
+
+COLORED GEL LIGHTING:
+Full CTB blue gel on upper-front key. Optional pale cyan accent from below the water surface to backlight ripples. No amber, no warm tones.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A single oversized articulated wooden hand mannequin (forearm and hand, with visible joints and individual posable wooden fingers) emerges vertically from a rippled water surface made of textured blue paper and layered acetate. The wooden palm holds a small clay calabash overflowing with real water spilling down the wrist. A paper water lily floats on the surface to one side; a small toy fish leaps from the water on the other side; a small paper kingfisher or dove with a paper leaf in its beak descends from the upper frame on monofilament. Deep teal painted-paper backdrop fading to lighter blue at top. Cool blue lighting from upper-front lamp with CTB gel. Centered vertical composition, low frontal medium shot. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, realistic water effects, photographic realism, busy underwater scene, full figure visible.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, selective Krobo beadwork on the wrist if visible, and stylized water rendering with appliqué wave shapes. Do not render that style at the previz stage.
+
+
+CARD 2 — TWO OF CUPS
+Rig: B — Duality / Mirror (variant)
+Suit: Cups (Agbe — Water)
+
+SCENE PURPOSE:
+Partnership, union, mutual attraction. Two becoming one through an exchange across water. Intimate, balanced, gentle.
+
+ENVIRONMENT:
+Calm river at golden hour. The narrow river runs horizontally across the lower third of the frame. Gentle blues with warm gold reflections on the water surface. River banks rise on either side as low painted-paper berms.
+
+CAMERA:
+Wide symmetrical frontal shot. Eye level with the kneeling puppets. Slight downward tilt to show the river surface and the meeting point of hands.
+
+CHARACTER ACTION:
+Two wooden puppets kneeling on opposite banks of a narrow river, leaning forward at the waist to exchange small calabash props. Their wooden hands meet above the center of the water.
+
+FOCAL POINT:
+The meeting point — wooden hands and calabashes touching above the water at exact center frame. Reflections of the hands shimmer below in the water surface.
+
+SPATIAL BLOCKING:
+Mirror composition. Puppet 1 screen-left, kneeling on the left riverbank, body angled inward. Puppet 2 screen-right, mirrored. River centerline runs left-to-right across lower-third. Hands and calabashes meet at center-frame at the horizontal midline.
+
+OBJECT POSITIONING:
+Calabashes meet at exact frame center, held at chest height of the kneeling puppets. Small toy fish circling in the river just below the meeting point. Matching beadwork visible at the puppets' wrists or necks. Riverbanks slope downward toward the river at a gentle angle.
+
+COMPOSITION NOTES:
+Bilateral symmetry. Cool/warm clothing echoes Mawu-Lisa duality at miniature scale — Puppet 1 in cooler cloth scraps (silver-blue), Puppet 2 in warmer cloth scraps (gold-ochre). The river reflection doubles the meeting point — the hands and their shimmering reflections together form a near-circle at center.
+
+LIGHTING:
+Soft warm key from camera-right at low angle (golden-hour sunlight). Cooler ambient fill on the water and the screen-left puppet. Reflections on the water catch both warm and cool tones.
+
+SYMBOLIC OBJECTS:
+- Two calabash props meeting at frame center
+- Small toy fish circling in the river
+- Matching paper or bead string accents on both puppets
+- Cool/warm cloth-scrap garments echoing duality
+
+MOOD / INFLUENCE:
+Intimate, balanced, gentle. Quiet partnership. Not romantic embrace — sacred exchange.
+
+READABILITY GOAL:
+Audience must feel mutual offering. Silhouette reads at thumbnail as: two kneeling figures leaning in over a horizontal water band, meeting at center.
+
+PERSPECTIVE GRID:
+1-point perspective, low horizon at the river surface. Vanishing point centered behind the meeting point of the calabashes.
+
+CHARACTER ORIENTATION:
+Both puppets in 3/4 view, angled inward toward the centerline. Wooden torsos leaning forward from kneeling positions. Wooden heads turned to face the meeting point — not the camera. Their gazes lock on the calabashes, not on each other and not on the viewer.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Two wooden artist's puppets in kneeling poses on either side of a narrow water trough or sheet of mirrored acrylic painted blue
+- Low painted-paper berms on the outsides of each puppet representing riverbanks
+- Two small clay calabash props meeting at the geometric center of the frame
+- Small toy fish on monofilament in the water trough, circling under the meeting point
+- Warm lamp with CTO gel camera-right at low angle for golden-hour key
+- Cool blue ambient fill from above-camera-left
+
+FLOORPLAN — TOP-DOWN VIEW (bird's-eye):
+
+         BACKDROP (Y=9-10)
+    ┌─────────────────────────────┐
+    │                             │
+ 10 │   ·                  ·      │  ← sky/upper backdrop
+    │   ·                  ·      │
+  8 │   ·                  ·      │
+    │   BANK              BANK    │  ← far riverbanks (Y=7-8)
+  6 │   ·                  ·      │
+    │   PUP1            PUP2      │  ← puppets kneeling (Y=5)
+  5 │   ↘    *MEET*    ↙          │  ← hands meet at center (X=5, Y=4-5)
+    │   ·     RIVER    ·          │  ← water band runs across (Y=3-4)
+  4 │   ·    [FISH]    ·          │
+    │                             │
+  2 │                             │  ← foreground (Y=1-2)
+    │                             │
+  0 └─────────────────────────────┘
+       0  2  4  5  6  8  10
+                 ↑
+                 C (camera at X=5, Y=-2, Z=3)
+
+FLOORPLAN — FRONT VIEW (camera POV):
+
+         TOP OF FRAME (Z=10)
+    ┌─────────────────────────────┐
+ 10 │                             │
+    │                             │
+  8 │                             │
+    │   PUP1              PUP2    │  ← Z=4-6, heads and torsos
+  6 │   ·HEAD            HEAD·    │
+    │   ·TORSO          TORSO·    │
+  5 │     \    *MEET*   /         │  ← Z=4-5, hands meet at center
+    │      ·CALABASH·             │
+  4 │   ════════════════════      │  ← Z=2, water surface
+    │     ~~~ [FISH] ~~~          │
+  2 │                             │  ← Z=0-2, foreground/floor
+    │                             │
+  0 └─────────────────────────────┘
+       0  2  4  5  6  8  10
+       FLOOR (Z=0)
+
+FLOORPLAN COORDINATES:
+- Puppet 1 (Mawu-coded, cool palette): X=3, Y=5, Z=0-5 (kneeling on left bank, screen-left)
+- Puppet 1 head: X=3.5, Y=5, Z=5 (turned to look at meeting point)
+- Puppet 1 extended hand: X=4.7, Y=4.5, Z=4.5
+- Puppet 2 (Lisa-coded, warm palette): X=7, Y=5, Z=0-5 (kneeling on right bank, screen-right, mirrored)
+- Puppet 2 head: X=6.5, Y=5, Z=5 (turned to look at meeting point)
+- Puppet 2 extended hand: X=5.3, Y=4.5, Z=4.5
+- Meeting point (calabashes touch): X=5, Y=4.5, Z=4.5 (dead center, chest height)
+- River centerline: Y=3-4, runs full width (X=0 to X=10), at Z=2 (low surface)
+- Fish in river: X=5, Y=3.5, Z=1.5 (directly below meeting point)
+- Warm key light: X=12, Y=2, Z=5 (off-stage screen-right, golden-hour angle)
+- Cool fill: X=3, Y=-1, Z=8 (above-camera-left, ambient)
+- Camera: X=5, Y=-2, Z=3 (centered, eye level with kneeling puppets)
+
+PROSE TRANSLATION (for image-gen prompts):
+Two kneeling puppets occupy the midground at equal depth, screen-left and screen-right, each on a low riverbank. They lean inward from the waist, their wooden hands extended to meet just above the water surface at the exact horizontal center of the frame. The calabashes they hold touch at this center point at chest height. A narrow river runs horizontally across the lower third of the frame between them, with a small fish circling below the meeting point. The screen-left puppet is dressed in cool silver-blue cloth scraps; the screen-right puppet in warm gold-ochre. Warm golden-hour light enters from off-stage screen-right; cool fill ambient from above-camera-left.
+
+LAYERED CUTOUT IDEAS:
+Five planes — (1) sky/upper backdrop, (2) far riverbank silhouette, (3) screen-left puppet on near bank, (4) screen-right puppet on near bank, (5) river surface with fish, ripples, and reflections in foreground.
+
+COLORED GEL LIGHTING:
+CTO amber key screen-right at low angle. CTB blue ambient fill from upper-camera-left. Optional pale yellow accent on the meeting point itself to mark it as sacred. Reflections in the water should pick up both gels — the river surface is where the duality reconciles.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. Two wooden artist's puppets with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and sculpted wooden heads with a defined jawline, chin, nose ridge, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips). Both puppets kneeling on opposite banks of a narrow river made of mirrored acrylic painted blue. Puppet on screen-left draped in cool-toned cloth scraps (silver, pale blue); puppet on screen-right draped in warm-toned cloth scraps (gold, ochre). Both leaning inward, wooden hands meeting at exact frame center holding two small clay calabashes that touch. Small toy fish in the river below the meeting point. Low painted-paper riverbanks frame both puppets. Warm golden-hour lighting from camera-right with CTO gel; cool blue ambient fill from above-camera-left. Wide symmetrical frontal eye-level shot. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, romantic embrace, kissing, photographic realism, dynamic angle, cluttered riverside scene.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, mirrored cool/warm palettes echoing the Lovers card, and stylized water rendering. Do not render that style at the previz stage.
+
+
+CARD 3 — ACE OF WANDS
+Rig: E — Elemental Hand
+Suit: Wands (Sogbo — Fire)
+
+SCENE PURPOSE:
+Spark of inspiration. Creative ignition. The beginning of passion erupting from Sogbo's storm sky.
+
+ENVIRONMENT:
+Stormy purple-black painted-paper sky with crackling white paper lightning cutouts. Dark storm clouds in appliqué-style flat shapes. The sky IS the environment — no ground, no horizon.
+
+CAMERA:
+Dynamic low-angle close-up. Camera below the emerging hand looking up. Slight Dutch tilt (5-8 degrees) to add charge without going full chaos.
+
+CHARACTER ACTION:
+A single oversized wooden puppet hand (articulated, with individual fingers) thrusts upward from a cluster of storm clouds, gripping a wooden staff that sprouts green paper leaves at the top. Lightning crackles around the staff's base.
+
+FOCAL POINT:
+The sprouting top of the staff where leaves emerge. Lightning streaks radiate outward from the staff's base, leading the eye back down to the wooden hand's grip.
+
+SPATIAL BLOCKING:
+Diagonal energy composition. Wooden hand and staff form a strong diagonal from lower-frame to upper-frame, slightly off-vertical. Storm clouds cluster at lower-third of frame around the wrist. Lightning streaks scatter asymmetrically.
+
+OBJECT POSITIONING:
+Staff held vertically (or near-vertical with slight tilt) in the wooden hand's fist. Green paper leaves clustered at the staff's top, partially silhouetted against the sky. Small orange paper flame at the staff's base where it meets the wooden grip. Lightning cutouts radiate from the wrist area.
+
+COMPOSITION NOTES:
+Strong vertical-diagonal anchored by the staff. Repeating jagged shapes in the lightning create rhythm around the hand. Negative space at upper frame for the sprouting leaves to read clearly.
+
+LIGHTING:
+Sharp high-contrast lightning lighting. Hard cool-white key from upper-corner (lightning source) catching the wooden fingers and the top of the staff. Deep purple-black ambient everywhere else. Small warm amber spot at the staff's base for the flame.
+
+SYMBOLIC OBJECTS:
+- Wooden staff prop (dowel rod painted to look like rough wood) with green paper leaves at top
+- Small orange paper flame at staff's base
+- White paper lightning bolt cutouts scattered around the hand
+- Storm cloud paper shapes clustered at the wrist
+
+MOOD / INFLUENCE:
+Charged, eruptive, alive. The most kinetic Ace. Sogbo's fire making itself known.
+
+READABILITY GOAL:
+Audience must feel ignition. Silhouette reads at thumbnail as: vertical staff with leafy crown rising from a fist surrounded by jagged shapes.
+
+PERSPECTIVE GRID:
+2-point perspective with slight Dutch tilt. Low horizon at the storm cloud line. Vanishing points off-frame left and right for subtle distortion.
+
+CHARACTER ORIENTATION:
+Hand emerges from below at a slight diagonal (not perfectly vertical). Wooden fingers gripping the staff in a closed fist, with the thumb wrapped over for stability. Individual finger joints visible.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Single articulated wooden hand mannequin (forearm and hand only), mounted at a slight upward diagonal angle
+- Dowel rod painted dark for staff, with green construction-paper leaves taped to the top
+- Small orange paper flame cutout at the base of the staff where it meets the wooden grip
+- Torn paper lightning bolts in white, scattered around the wrist
+- Crumpled dark purple paper clusters representing storm clouds at the wrist base
+- Flashlight or LED snoot from upper-corner for hard lightning key
+- Small amber LED tucked behind the flame paper for warm accent
+
+LAYERED CUTOUT IDEAS:
+Four planes — (1) deep purple-black painted-paper storm sky backdrop, (2) lightning bolt cutouts overlay, (3) emerging wooden hand with staff, leaves, and flame, (4) storm cloud paper masses in foreground at wrist.
+
+ACRYLIC GRID SUGGESTION:
+Tilted thirds grid matching the slight Dutch angle. Wooden hand grip on lower-third intersection. Staff top with leaves on upper-third intersection. Lightning bolts radiating from a thirds intersection.
+
+COLORED GEL LIGHTING:
+Pale blue or cool white gel on lightning-source key from upper corner. Deep purple gel on backdrop wash. Small amber gel or LED on the flame at staff base. Strong contrast, minimal fill.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A single oversized articulated wooden hand mannequin (forearm and hand, with visible joints and individual posable wooden fingers) thrusts upward at a slight diagonal angle from a cluster of crumpled dark purple paper storm clouds. The wooden fist grips a dowel-rod staff painted dark brown with green construction-paper leaves taped to the top. A small orange paper flame cutout glows at the staff's base near the wooden grip. White torn-paper lightning bolt cutouts scatter around the wrist. Deep purple-black painted-paper storm sky backdrop. Slight Dutch tilt camera angle, 5-8 degrees. Hard cool-white lightning-source key from upper corner with pale blue gel. Small amber accent on the flame. Strong vertical-diagonal composition, low-angle close-up. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, realistic lightning effects, photographic storm, full figure visible, cluttered background, generic fantasy wizard staff.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, kinetic graphic lightning shapes, and stylized storm cloud rendering. Do not render that style at the previz stage.
+
+
+CARD 4 — KNIGHT OF WANDS
+Rig: D — Transformation / Power (kinetic variant)
+Suit: Wands (Sogbo — Fire)
+
+SCENE PURPOSE:
+Action, adventure, passionate movement. Charging ahead. The most action-driven Minor — a warrior in motion through fire.
+
+ENVIRONMENT:
+Warm sunset reds and oranges painted-paper backdrop with smoke streaks rendered as torn paper. Suggested ground plane below, but the focus is the warrior in motion through hot air.
+
+CAMERA:
+Medium shot, slight low angle for heroic framing. Camera positioned screen-right, capturing the charge moving from right-to-left across the frame (or vice versa — pick one and commit). Slight Dutch tilt (5-10 degrees) to amplify motion.
+
+CHARACTER ACTION:
+A wooden puppet warrior posed on top of a toy mount (model horse or ram), mid-gallop. The puppet leans forward at the waist, one wooden arm raised high gripping a staff topped with a small paper flame. The other wooden hand grips the mount's neck or rein. A long cloth-scrap banner trails behind.
+
+FOCAL POINT:
+The raised staff with the flame at its top, then the leaning posture of the puppet warrior. The eye follows the diagonal from staff-top down through the puppet's torso to the mount.
+
+SPATIAL BLOCKING:
+Strong diagonal composition. Warrior and mount occupy mid-frame, oriented in profile or 3/4 view facing the direction of charge. Trailing banner sweeps across upper-frame behind. Smoke streaks scatter at lower-frame and around the mount's hooves.
+
+OBJECT POSITIONING:
+Staff raised high, angled slightly back over the warrior's shoulder so the flame at its tip clears the warrior's head. Banner trails from the staff or the warrior's back, sweeping diagonally across upper-frame opposite the direction of motion. Mount's front legs raised or extended forward in galloping pose.
+
+COMPOSITION NOTES:
+The whole composition leans into the direction of motion. Repeating diagonal lines (staff, banner, mount's legs, smoke streaks) all echo the same angle. Negative space ahead of the warrior to show where the charge is going.
+
+LIGHTING:
+Hard warm key from in front of the mount (the direction of motion), as if the warrior is charging toward a light source. Deep red-orange ambient everywhere else. Strong silhouette read against the warm backdrop.
+
+SYMBOLIC OBJECTS:
+- Wooden staff topped with a small paper flame
+- Long cloth-scrap banner trailing behind
+- Lightning-motif patterns on the warrior's cloth armor (Sogbo-inspired)
+- Toy horse or ram as mount
+- Torn paper smoke streaks
+
+MOOD / INFLUENCE:
+Dynamic, fierce, urgent. Most action-driven Minor in the deck. Charge energy without descending into chaos.
+
+READABILITY GOAL:
+Audience must feel forward motion and heat. Silhouette reads at thumbnail as: warrior leaning forward on a galloping mount, staff raised diagonally, banner trailing.
+
+PERSPECTIVE GRID:
+2-point perspective with slight Dutch tilt. Vanishing points off-frame to support the diagonal motion direction.
+
+CHARACTER ORIENTATION:
+Puppet warrior in 3/4 view, torso angled toward the direction of motion. Wooden head turned slightly forward (looking where the charge is headed). Wooden arms in dynamic positions — one raised with staff, one extended to grip mount. Mount in 3/4 view, also angled toward motion direction.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Wooden artist's puppet posed atop a toy model horse or ram, secured with clear museum putty
+- Dowel rod staff with a small orange paper flame cutout glued to the top
+- Long strip of red or orange cloth pinned at the puppet's back, trailing behind on monofilament to suggest motion
+- Cloth scraps with white lightning-motif patterns drawn or printed on, draped as armor
+- Torn paper smoke streaks hung on monofilament around the mount's hooves and rear
+- Warm lamp camera-front-left with full CTO gel as key
+- Slight camera tilt or maquette stage tilt
+
+FLOORPLAN — TOP-DOWN VIEW (bird's-eye):
+
+         BACKDROP (Y=9-10)
+    ┌─────────────────────────────┐
+    │   ·                  ·      │  ← upper backdrop (sunset)
+ 10 │   ·      BANNER       ·     │  ← banner trails Y=7-9
+    │   ·    ·                    │
+  8 │       ·  ·                  │
+    │      ·    ·                 │
+  6 │     STAFF                   │  ← staff diagonal Y=5-7
+    │     · ↗                     │
+  5 │   WARRIOR ←                 │  ← puppet at Y=5, X=4-5
+    │   ↗  ·                      │
+  4 │  MOUNT ←                    │  ← toy mount at Y=4, X=4-6
+    │   ·  ·                      │
+  2 │  SMOKE  SMOKE               │  ← smoke at Y=2-3 around hooves
+    │  ·  ·                       │
+  0 └─────────────────────────────┘
+       0  2  4  5  6  8  10
+                 ↑
+                 C (camera at X=7, Y=-2, Z=4)
+              ← motion direction (right to left)
+
+FLOORPLAN — FRONT VIEW (camera POV):
+
+         TOP OF FRAME (Z=10)
+    ┌─────────────────────────────┐
+ 10 │                             │
+    │      BANNER ↘               │  ← Z=7-9, banner sweeps back
+  8 │     ·  ·                    │
+    │    ·    ·                   │
+  6 │   STAFF ·                   │  ← Z=6-8, staff raised diagonally
+    │   ↗  FLAME                  │
+  5 │  WARRIOR                    │  ← Z=4-6, puppet torso and head
+    │  HEAD                       │
+  4 │  MOUNT                      │  ← Z=2-4, toy mount body
+    │  ·BODY·                     │
+  2 │  ·HOOVES·  SMOKE            │  ← Z=0-2, hooves and smoke
+    │  ═══════════                │
+  0 └─────────────────────────────┘
+       0  2  4  5  6  8  10
+       GROUND (Z=0)
+
+FLOORPLAN COORDINATES:
+- Puppet warrior (body): X=4.5, Y=5, Z=3-6 (mounted, mid-frame, leaning forward)
+- Puppet head: X=4, Y=5, Z=6 (turned forward toward motion direction, screen-left)
+- Raised wooden arm with staff: extending from X=5, Y=5, Z=6 to X=4, Y=6, Z=8 (diagonal back and up)
+- Staff top with flame: X=4, Y=6, Z=8 (upper-screen-left of warrior)
+- Other wooden hand gripping mount: X=4.5, Y=4.7, Z=4
+- Toy mount (horse/ram): X=4-6, Y=4, Z=0-4 (body extends along motion axis)
+- Mount's raised front hooves: X=3, Y=4, Z=2
+- Trailing banner: extends from X=5 to X=8, Y=6-7, Z=6-9 (sweeps screen-right and up)
+- Smoke streaks: X=5-7, Y=2-3, Z=0-2 (foreground, around and behind hooves)
+- Warm key light: X=2, Y=2, Z=5 (off-stage front-screen-left, ahead of motion direction)
+- Camera: X=7, Y=-2, Z=4 (positioned screen-right of action, capturing right-to-left motion)
+- Motion direction: from screen-right toward screen-left (warrior charges leftward)
+
+PROSE TRANSLATION (for image-gen prompts):
+The wooden puppet warrior sits atop a toy horse or ram in mid-gallop, body leaning forward toward the screen-left direction of motion. One wooden arm raises a dowel-rod staff diagonally back over the right shoulder, with a small orange paper flame at the staff's tip in the upper-screen-left region of the frame. The other wooden hand grips the mount's neck. A long cloth-scrap banner trails diagonally behind the warrior, sweeping toward the upper-screen-right. The mount's front hooves are raised mid-stride. Torn paper smoke streaks scatter around and behind the mount's hooves at ground level. Warm sunset-colored painted-paper backdrop. Hard warm key light enters from the screen-left ahead of the motion direction.
+
+LAYERED CUTOUT IDEAS:
+Six planes — (1) warm sunset painted-paper backdrop, (2) far smoke streaks layer, (3) trailing banner cloth, (4) puppet warrior on mount, (5) raised staff with flame overlay, (6) foreground smoke at mount's hooves.
+
+COLORED GEL LIGHTING:
+Full CTO amber key from front-screen-left. Deep red gel on backdrop wash for sunset glow. Optional small accent LED at the staff's flame for self-illumination. Strong contrast, hard shadow on the warrior's screen-right side to carve silhouette.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A wooden artist's puppet with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and a sculpted wooden head with a defined jawline, chin, nose ridge, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips) posed atop a toy horse or ram in mid-gallop. The puppet leans forward at the waist, one wooden arm raised diagonally back gripping a dowel-rod staff with a small orange paper flame at its tip. The other wooden hand grips the mount's neck. A long red-orange cloth scrap banner trails diagonally behind the warrior on monofilament. Cloth scraps with white lightning-motif patterns drape the warrior's body as armor. Torn paper smoke streaks scatter around the mount's hooves. Warm sunset-red painted-paper backdrop. Hard warm key light from camera-front-left with full CTO gel. Slight Dutch tilt camera angle, 5-10 degrees. Strong diagonal composition, low-angle medium shot. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, white horse, photographic realism, generic fantasy knight, full medieval armor, calm composition.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, kinetic graphic motion lines, Sogbo-inspired lightning-motif armor pattern, and stylized smoke and flame rendering. Do not render that style at the previz stage.
+
+
+CARD 5 — ACE OF SWORDS
+Rig: E — Elemental Hand
+Suit: Swords (Djo — Wind)
+
+SCENE PURPOSE:
+Clarity, breakthrough, sharp truth. Mental opening. Djo's wind clarifying everything in a single gesture.
+
+ENVIRONMENT:
+Clear cool sky with thin wind-streaked clouds in soft whites and pale grays. The sky IS the environment — no ground, no horizon below. High-altitude clarity.
+
+CAMERA:
+Straight-on close shot. Camera at the blade's midpoint looking slightly up. Stable, no tilt. Clean, lucid framing matching the card's energy.
+
+CHARACTER ACTION:
+A single oversized wooden puppet hand (articulated, with individual fingers) emerges from a cluster of wind-streaked paper clouds, gripping an upright blade. A crown of feathers and curling wind-lines decorates the blade's tip instead of a laurel.
+
+FOCAL POINT:
+The blade's point, with its feather-and-wind-curl crown. Eye travels down the blade's length to the wooden hand's grip.
+
+SPATIAL BLOCKING:
+Strict centered vertical composition. Hand and blade form a single tall vertical line dead center frame. Cloud cluster at lower-third around the wrist. Small bird silhouettes circling at upper-frame around the crown.
+
+OBJECT POSITIONING:
+Blade held vertical, point up, parallel to frame edges. Crown of feathers and wind-curls clustered at the blade's tip. Cloud paper masses cluster at the wrist where the hand emerges. Small paper bird cutouts circle the upper-frame area on monofilament.
+
+COMPOSITION NOTES:
+Extreme vertical symmetry. Hard edges throughout — the blade silhouette is clean and uncluttered. The blade should be a takuba or ida-style West African form (broader, straighter, less European-sword-shaped). Subtle horizontal wind-lines in the background create gentle contrast against the vertical blade.
+
+LIGHTING:
+Bright cool key from upper-front. High-key lighting overall — minimal shadow, cold and clear. Slight rim of brighter white along the blade's edge to make it gleam.
+
+SYMBOLIC OBJECTS:
+- Upright takuba- or ida-style blade prop
+- Crown of small feathers and curling paper wind-lines at blade tip
+- Cloud paper masses at the wrist
+- Small paper bird silhouettes circling at upper frame
+- Subtle horizontal wind-line patterns in the backdrop
+
+MOOD / INFLUENCE:
+Sharp, cold, awake, lucid. The clearest Ace. Djo's blade of clarity.
+
+READABILITY GOAL:
+Audience must feel sudden mental clarity. Silhouette reads at thumbnail as: a vertical blade rising from a fist, with a small ornate cluster at the top.
+
+PERSPECTIVE GRID:
+No perspective. Pure flat vertical composition. Centered vanishing point hidden behind the blade.
+
+CHARACTER ORIENTATION:
+Hand emerges straight up from the clouds, palm rotated to display the closed fist gripping the blade. Wooden fingers wrapped around the grip with the thumb visible on the front side. Blade rises straight vertical.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Single articulated wooden hand mannequin (forearm and hand only), mounted vertically through a hole cut in a sheet of cloud-textured paper
+- Cardboard or thin wood blade prop, painted silver-gray, in West African takuba or ida shape (broader, straighter than European swords)
+- Small craft feathers and curled paper wind-lines glued together as the crown at the blade's tip
+- Cotton balls or torn paper masses arranged as cloud clusters at the wrist
+- Small paper bird silhouettes on monofilament suspended above
+- Bright cool white lamp with CTB gel from upper-front for key
+
+LAYERED CUTOUT IDEAS:
+Four planes — (1) pale cool-gray sky backdrop with subtle wind-line patterns, (2) circling bird silhouettes at upper frame, (3) emerging wooden hand with blade and feather crown, (4) cloud paper masses at the wrist in foreground.
+
+ACRYLIC GRID SUGGESTION:
+Centered vertical axis. Blade tip and feather crown on upper-third horizontal. Wooden grip on horizontal midline. Cloud masses on lower-third horizontal. Bird silhouettes positioned on upper-third intersections (off-center, not directly behind crown).
+
+COLORED GEL LIGHTING:
+Full CTB cool blue gel on upper-front key. Optional very pale lavender backlight to suggest high-altitude atmosphere. Avoid any warm tones. High-key lighting — minimal contrast, maximum legibility.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A single oversized articulated wooden hand mannequin (forearm and hand, with visible joints and individual posable wooden fingers) emerges vertically from a cluster of torn-paper and cotton wool clouds, gripping an upright cardboard blade painted silver-gray in a West African takuba or ida shape (broader, straighter than a European sword). A small crown of craft feathers and curled paper wind-lines decorates the blade's tip. Pale cool-gray painted-paper sky backdrop with subtle horizontal wind-line patterns drawn in lighter gray. Small black paper bird silhouettes on monofilament circle the upper frame. Bright cool key lighting from upper-front lamp with CTB blue gel, high-key minimal shadow. Strict centered vertical composition, close shot. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European medieval sword, longsword, photographic realism, dark and gloomy mood, full figure visible, cluttered sky.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, stylized wind-line patterns, and a West African blade silhouette (takuba or ida form). Do not render that style at the previz stage.
+
+
+CARD 6 — QUEEN OF SWORDS
+Rig: A — Throne / Icon
+Suit: Swords (Djo — Wind)
+
+SCENE PURPOSE:
+Independent thought, clear judgment, sharp wisdom. Cutting through illusion. The most powerful female Minor portrait in the deck.
+
+ENVIRONMENT:
+Sky-throne against pale blue painted-paper backdrop with wind-streaked clouds in soft whites and silver-grays. Possibly small paper star cutouts at the upper edges. The throne floats in the clouds — no architecture below.
+
+CAMERA:
+Straight-on medium shot, slight low angle. Camera at the puppet's chest level. Stable, no tilt. Regal, frontal framing.
+
+CHARACTER ACTION:
+A wooden puppet posed seated on a high-backed throne, blade raised vertically in one wooden hand (point up), the other wooden hand extended palm-up at lap level. Wooden head turned directly to camera with unflinching directness.
+
+FOCAL POINT:
+The puppet's wooden head, then the raised blade. Vertical axis: blade tip to head to extended palm.
+
+SPATIAL BLOCKING:
+Centered vertical composition, slightly weighted toward the blade side. Throne occupies lower two-thirds of frame. Blade rises from puppet's hand into upper-third. Extended palm at horizontal midline as a counterbalance.
+
+OBJECT POSITIONING:
+Blade held vertical in the puppet's dominant wooden hand (screen-left or screen-right — pick one), point up, parallel to frame edge. Other wooden hand extended palm-up at lap level, slightly offset from centerline. A small paper hawk or falcon silhouette perched on the throne's arm. Elaborate cloth gele wrapped around the wooden head with paper feather details emerging.
+
+COMPOSITION NOTES:
+Vertical authority. Strict bilateral near-symmetry, broken only by the blade-arm asymmetry. Cloth-scrap garments move slightly as if wind-stirred — suggested by pinning some cloth edges away from the body. Beadwork at the puppet's neck and waist.
+
+LIGHTING:
+Bright cool key from camera-front, slightly elevated. Cooler ambient fill everywhere. Slight rim of brighter white-blue along the blade and the puppet's silhouette edge to separate from backdrop.
+
+SYMBOLIC OBJECTS:
+- Upright blade prop (takuba or ida form, same as Ace of Swords)
+- Cloth gele with paper feather details
+- Bead string necklace with feather and bead alternation
+- Small paper hawk or falcon silhouette on the throne's arm
+- Cloth garments suggesting wind-movement
+
+MOOD / INFLUENCE:
+Sovereign, sharp, unsentimental. Most powerful female Minor portrait. Not warm — this is judgment, not nurture.
+
+READABILITY GOAL:
+Audience must feel unflinching judgment. Silhouette reads at thumbnail as: seated regal figure with a tall vertical blade rising beside her.
+
+PERSPECTIVE GRID:
+1-point perspective, low horizon. Vanishing point behind the puppet at chest level. Throne tilts slightly forward to read as elevated.
+
+CHARACTER ORIENTATION:
+Front view. Wooden torso square to camera. Wooden head turned directly to camera (or very slight 3/4 — direct gaze is essential). Blade-arm raised vertically. Palm-up hand extended at lap level.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Wooden artist's puppet seated on a cardboard throne block with a tall paper or cardboard back (the throne back rises higher than for the Major Arcana thrones)
+- Cardboard or thin wood blade prop, same form as Ace of Swords
+- Cloth gele wrapped around the puppet's wooden head with craft feathers tucked into the wrap
+- Bead string with feather alternation at the puppet's neck
+- Small paper hawk or falcon silhouette glued to the throne's arm
+- Pale blue painted-paper backdrop with subtle wind-line and small star cutouts at edges
+- Bright cool lamp with CTB gel from camera-front-elevated for key
+
+LAYERED CUTOUT IDEAS:
+Four planes — (1) pale blue sky backdrop with wind-lines and stars, (2) far cloud silhouette layer, (3) puppet on throne with blade and hawk, (4) foreground cloud paper masses at throne base suggesting floating throne.
+
+ACRYLIC GRID SUGGESTION:
+Centered vertical axis. Puppet's wooden head on upper-third horizontal. Blade tip near upper edge of frame. Extended palm on horizontal midline. Hawk silhouette on lower-third intersection.
+
+COLORED GEL LIGHTING:
+Full CTB cool blue gel on camera-front-elevated key. Pale lavender backlight for slight separation from backdrop. High-key, minimal shadow — Djo's clarity is the operative aesthetic.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A wooden artist's puppet with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and a sculpted wooden head with a defined jawline, chin, nose ridge, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips) seated frontally on a cardboard throne with a tall paper back. The puppet wears a cloth gele wrapped around the wooden head with craft feathers tucked in, and a bead-and-feather necklace. One wooden hand holds an upright cardboard blade (West African takuba or ida shape, silver-gray) vertically, point up. The other wooden hand extends palm-up at lap level. A small paper hawk silhouette perches on the throne's arm. Pale blue painted-paper backdrop with subtle horizontal wind-lines and small paper star cutouts at upper edges. Torn-paper cloud masses at the throne's base suggest a floating sky-throne. Bright cool key lighting from camera-front-elevated with CTB blue gel, high-key minimal shadow. Slight low-angle medium shot, frontal symmetry. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European medieval queen, longsword, photographic realism, warm tones, soft motherly expression, cluttered throne room.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, selective Krobo beadwork at neck and wrists, elaborate gele with feather details, and the West African blade silhouette. Do not render that style at the previz stage.
+
+
+CARD 7 — ACE OF PENTACLES
+Rig: E — Elemental Hand
+Suit: Pentacles (Sakpata / Age — Earth)
+
+SCENE PURPOSE:
+New material opportunity. Abundance arriving. Fertile beginnings. Sakpata's earth or Age's farmland offering its gift.
+
+ENVIRONMENT:
+Fertile earth meets warm soil tones at the lower frame, transitioning to deep green vegetation above. A small garden archway frames a path leading into the distance. The environment is the ground itself, generous and growing.
+
+CAMERA:
+Straight-on close shot, slight low angle. Camera at ground level looking slightly up at the offering hand. Stable, no tilt. Generous, frontal framing.
+
+CHARACTER ACTION:
+A single oversized wooden puppet hand (articulated, with individual fingers) emerges from above the frame (Sakpata's or Age's hand from the heavens), palm down, offering a golden disc marked with a cowrie or star motif. Below, a garden archway with growing things frames a path leading into the distance.
+
+FOCAL POINT:
+The offered golden disc on the wooden palm. The eye follows the offering downward into the garden archway and the path beyond.
+
+SPATIAL BLOCKING:
+Centered composition with strong vertical hierarchy. Wooden hand and disc occupy upper-third of frame. Garden archway frames the middle of the composition. Path receding into distance occupies lower-third, drawing the eye into depth.
+
+OBJECT POSITIONING:
+Golden disc held flat on the wooden palm, oriented so the cowrie or star marking faces the camera. Garden archway directly below the hand, framing the center of the composition. Small props of yams, hibiscus blossoms, palm fronds growing at the archway's base. Path of pebbles or sand leading from the archway into upper-distance.
+
+COMPOSITION NOTES:
+Stable, grounded vertical hierarchy. Strong frame-within-frame structure created by the archway. Pattern richness in the disc's surface markings and the growing plants. The composition reads as a doorway — Sakpata or Age offering passage into abundance.
+
+LIGHTING:
+Warm earthy key from camera-front-elevated (golden hour or generous noon). Soft fill everywhere — this is the most generously lit of the Aces. Slight rim of warm gold around the disc to suggest its sacred nature.
+
+SYMBOLIC OBJECTS:
+- Golden disc prop (foil-laminated cardboard) marked with a cowrie shape or Adinkra-adjacent star motif
+- Garden archway built from cardboard and twigs
+- Small fabric or paper yams, hibiscus blossoms, palm fronds
+- Path of small pebbles or sand grains receding into distance
+- Optional: small textured paper or cloth backdrop suggesting fertile field beyond the archway
+
+MOOD / INFLUENCE:
+Generous, grounded, promising. The warmest Ace. Sakpata's blessing as an opened gate.
+
+READABILITY GOAL:
+Audience must feel gift and passage. Silhouette reads at thumbnail as: large hand offering a disc above an arched gateway.
+
+PERSPECTIVE GRID:
+1-point perspective, low horizon at the archway base. Vanishing point centered down the receding path into upper-distance.
+
+CHARACTER ORIENTATION:
+Hand descends from upper frame, palm rotated downward to display the disc. Wooden fingers gently cupped around or beneath the disc to suggest offering rather than dropping.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Single articulated wooden hand mannequin (forearm and hand only), mounted descending from above the frame at a downward angle
+- Foil-laminated cardboard disc with a cowrie shape or Adinkra-adjacent star drawn or stamped on its face, balanced on the wooden palm
+- Cardboard and twig archway constructed on the maquette stage below the hand
+- Fake paper plants — yams, hibiscus, palm fronds — taped or glued to the archway's base
+- Pebbles or fine sand on the stage floor creating a receding path
+- Warm green and gold painted-paper backdrop, with deeper green at upper frame and warmer ochre toward the path
+- Warm tungsten or amber-gel lamp from camera-front-elevated as key
+
+LAYERED CUTOUT IDEAS:
+Five planes — (1) deep green and ochre painted-paper backdrop with fertile field suggestions, (2) far path receding into distance, (3) garden archway with growing plants at base, (4) descending wooden hand with golden disc, (5) foreground plants and pebbles in deep foreground.
+
+ACRYLIC GRID SUGGESTION:
+Centered vertical axis. Disc and wooden hand on upper-third horizontal. Archway centered at horizontal midline. Path vanishing point on lower-third horizontal. Plants on lower-third intersections.
+
+COLORED GEL LIGHTING:
+Full CTO amber or 1/2 CTO key from camera-front-elevated. Deep green gel on a background accent light to push the foliage. Optional gold spot LED on the disc itself for sacred shimmer. Warm, generous lighting throughout.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A single oversized articulated wooden hand mannequin (forearm and hand, with visible joints and individual posable wooden fingers) descends from the upper frame at a downward angle, palm rotated down to offer a foil-laminated cardboard disc marked with a cowrie shape or Adinkra-adjacent star motif. Below the hand, a small cardboard and twig garden archway frames the center of the composition. Fake paper yams, hibiscus blossoms, and palm fronds grow at the archway's base. A path of small pebbles or sand recedes into the distance through the archway. Deep green painted-paper backdrop with warm ochre tones near the path. Warm earthy key lighting from camera-front-elevated with CTO amber gel, soft fill everywhere. Centered composition with strong vertical hierarchy, close low-angle shot. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European coin, dollar sign, photographic garden, cluttered foliage, dark tones, generic fantasy scenery.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, a cowrie- or Adinkra-styled disc emblem, stylized garden archway, and pattern-rich growing-plant details. Do not render that style at the previz stage.
+
+
+CARD 8 — QUEEN OF PENTACLES
+Rig: A — Throne / Icon
+Suit: Pentacles (Sakpata / Age — Earth)
+
+SCENE PURPOSE:
+Nurturing, practical abundance, the matriarch. Fertile and grounded prosperity. The most decoratively rich Minor in the deck.
+
+ENVIRONMENT:
+Lush garden setting in deep greens with warm gold light. The throne grows from vines and palm fronds — the garden itself is the throne. Background suggests a fertile field or garden bed.
+
+CAMERA:
+Straight-on medium-wide. Eye level or very slightly low. Stable, no tilt. Generous framing matching the card's abundance.
+
+CHARACTER ACTION:
+A wooden puppet posed richly dressed and seated on a throne grown from vines and palm fronds. The puppet holds a golden disc in her lap with one wooden hand. The other wooden hand rests on a basket of paper fruit or grain beside the throne.
+
+FOCAL POINT:
+The golden disc in the lap, then the puppet's wooden head crowned in elaborate gele. Secondary focus on the basket of fruit at her side.
+
+SPATIAL BLOCKING:
+Centered triangular silhouette, slightly wider at the base than the High Priestess or Empress (matriarchal weight). Vine-and-palm throne extends to the edges of the frame. Basket of fruit at lower-screen-right (or left — pick one and commit). Small animal prop (paper chicken, goat, or rabbit) near her feet.
+
+OBJECT POSITIONING:
+Golden disc held flat on the puppet's lap on centerline. Other wooden hand resting on the rim of a small basket of paper fruit at lower-frame-side. Small paper or toy animal positioned at the throne's base on the opposite side from the basket. Elaborate cloth gele crown wrapped around the wooden head with cowries and leaves.
+
+COMPOSITION NOTES:
+Decoratively the richest Minor. Pattern density in cloth wrappers, beadwork, and growing-plant details — but still constrained by the appliqué logic (no overall busy texture; patterns sit as graphic shapes). Heavy Krobo bead string at neck, wrists, and waist.
+
+LIGHTING:
+Warm key from camera-right at slightly elevated angle (afternoon golden light through garden). Soft fill from camera-left. Generous, embracing lighting — closer to the Sun's lighting than the Emperor's.
+
+SYMBOLIC OBJECTS:
+- Golden disc prop in the lap (same as Ace of Pentacles)
+- Small basket of paper fruit or grain beside throne
+- Small paper or toy animal (chicken, goat, or rabbit) at her feet
+- Cloth gele crown wrapped around wooden head with cowries and leaves
+- Heavy Krobo bead string at neck, wrists, waist
+- Vine-and-palm throne extensions
+
+MOOD / INFLUENCE:
+Abundant, warm, motherly, regal. The most decoratively rich Minor. Sakpata's nurturing aspect or Age's farmland matriarch.
+
+READABILITY GOAL:
+Audience must feel material generosity and rooted authority. Silhouette reads at thumbnail as: wide grounded triangular figure with crowned head, golden disc visible on lap, basket and animal anchoring the base.
+
+PERSPECTIVE GRID:
+1-point perspective, low horizon. Vanishing point behind the puppet at chest level. Throne reads as elevated by foliage rather than by height.
+
+CHARACTER ORIENTATION:
+Front view. Wooden torso facing camera. Slight settling weight to one hip. Wooden head straight or very slight 3/4, gazing at the camera with quiet authority.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Wooden artist's puppet seated on a cardboard throne, with fake palm fronds and paper vines taped extensively to the throne's sides and back so the throne reads as grown from plant matter
+- Foil-laminated cardboard disc (same as Ace of Pentacles) balanced on the puppet's lap on centerline
+- Small basket prop (a thimble or small cardboard cup) filled with paper-cutout fruit shapes or sand grains, placed at lower-screen-side
+- Small paper animal cutout or toy figure (chicken, goat, or rabbit) at the throne's base on the opposite side
+- Cloth gele wrapped around the wooden head with real cowrie shells and paper leaves tucked in
+- Heavy bead string at neck, wrists, and tied at waist
+- Wax-print or printed cloth scraps in golds and browns as the wrapper layers
+- Deep green and gold painted-paper backdrop
+- Warm tungsten lamp camera-right elevated for golden-hour key, soft fill camera-left
+
+LAYERED CUTOUT IDEAS:
+Five planes — (1) deep green painted-paper backdrop with fertile-field suggestions, (2) far foliage silhouette layer, (3) puppet on vine-throne, (4) basket and animal foreground props, (5) foreground dropped paper leaves or yams.
+
+ACRYLIC GRID SUGGESTION:
+Centered vertical axis. Wooden head and gele crown on upper-third horizontal. Golden disc on lap on horizontal midline. Basket and animal on lower-third intersections (one on each side).
+
+COLORED GEL LIGHTING:
+Full CTO amber key from camera-right elevated. Deep green gel on a background accent for foliage push. Soft warm fill camera-left. Generous lighting overall — closer to the Sun's embracing tone than to the Emperor's hard side-key.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A wooden artist's puppet with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and a sculpted wooden head with a defined jawline, chin, nose ridge, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips) seated frontally on a cardboard throne extensively decorated with fake palm fronds and paper vines so the throne reads as grown from plant matter. The puppet is dressed in layered wax-print or printed cloth scraps in golds and browns, with a cloth gele wrapped around the wooden head decorated with real cowrie shells and paper leaves. Heavy bead strings at neck, wrists, and tied at waist. One wooden hand holds a foil-laminated cardboard disc with a cowrie or Adinkra-adjacent star motif flat on the puppet's lap. The other wooden hand rests on a small basket prop filled with paper-cutout fruit shapes at the throne's lower-screen-side. A small paper animal cutout (chicken, goat, or rabbit) sits at the throne's base on the opposite side. Deep green painted-paper backdrop with warm gold tones. Warm afternoon golden-hour key lighting from camera-right elevated with CTO amber gel, soft fill from camera-left. Stable triangular composition, eye-level medium-wide shot. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European medieval queen, photographic garden, dollar sign, dark tones, gloomy mood, cluttered scenery, overly busy fabric texture.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, heavy Krobo beadwork detail at neck/wrists/waist, elaborate gele with cowries, wax-print pattern wrappers, and stylized garden-throne foliage. Do not render that style at the previz stage.
+
+
+END OF MINOR ARCANA BATCH
+
+RIG USAGE SUMMARY (MINOR ARCANA):
+- Rig A (Throne / Icon): Queen of Swords, Queen of Pentacles — same throne base as Major Arcana thrones, redressed (taller back for Queen of Swords, vine-and-palm extensions for Queen of Pentacles)
+- Rig B (Duality / Mirror, variant): Two of Cups — kneeling variant of the Lovers rig, with a horizontal water trough between the puppets instead of a centerline mirror plane
+- Rig D (Transformation / Power, kinetic variant): Knight of Wands — same kinetic mannequin-on-moving-stage logic as the Tower, but mounted on a toy animal and lit warm instead of cool
+- Rig E (Elemental Hand, NEW): all four Aces — single articulated wooden hand emerging from elemental field, redressed four times with different suit objects and different elemental backdrops
+
+CROSS-DECK CONSISTENCY NOTES:
+- The Queen of Pentacles and the Empress share visual DNA but differ in register: the Empress is a deity (Nana Buluku, primordial mother of all), while the Queen of Pentacles is a matriarchal stand-in within Sakpata/Age's earth domain. Make the Queen warmer, more accessible, less monumental.
+- The Queen of Swords and the High Priestess share frontal seated power but differ in temperature: the High Priestess is still, cool, omniscient; the Queen of Swords is sharp, alert, judging. Different cool — Mawu's cool is moonlight, Djo's cool is wind.
+- The Knight of Wands and the Tower both use kinetic Rig D but with opposite tonalities: the Tower is destruction and chaos, the Knight is charge and forward motion. Same rig, different emotional register.
+- The Two of Cups and the Lovers both use Rig B but at different scales: the Lovers is monumental and ceremonial (standing, foreheads touching), the Two of Cups is everyday and gentle (kneeling, calabashes exchanging). Same mirroring logic, different intimacy register.
+
+REFERENCE PRIORITY NOTE (for AI generation):
+Use references for environment accuracy, spatial logic, lighting behavior, prop placement, and compositional inspiration. Do not closely replicate reference compositions. The previz signature is visibly handmade puppet photography — wooden artist's dolls, cloth scraps, paper cutouts, practical lighting on a tabletop stage. The finished illustration style (Dahomey appliqué + Krobo beadwork + manga face readability) is a downstream translation and should not appear in the previz outputs.
+
+The Minor Arcana register is more accessible than the Major Arcana — these are not deity portraits. Keep that distinction visible in the puppet poses, the lighting generosity, and the environmental grounding.

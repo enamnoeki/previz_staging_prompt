@@ -1,0 +1,567 @@
+CHILDREN OF MAWU-LISA — COVER & BACK STAGING PROMPTS
+Cinematic Previsualization Brief — 6 Compositions (4 Cover Options + 2 Back Options)
+PUPPET-MODE PREVIZ EDITION
+
+
+HOW TO USE THIS DOCUMENT
+
+This is the third companion brief, working alongside the Major Arcana and Minor Arcana documents. It covers:
+- 4 cover design options (for the agent to choose from)
+- 2 back design options (for the agent to choose from)
+
+This file contains four layers:
+
+1. CHASSIS INHERITANCE NOTE — this brief inherits the full SHARED CHASSIS from the Major Arcana document (puppet construction rules, articulated hands, sculpted head geometry, AVOID list, thumbnail workflow). Paste the Major Arcana chassis FIRST when using these prompts.
+
+2. BORDER SPECIFICATION REFERENCE — this brief also inherits the BORDER SPECIFICATION document. Paste the BORDER PHYSICAL SPEC paragraph from that document into any cover prompt's AI VISUALIZATION GUIDANCE section.
+
+3. COVER & BACK SPECIFIC NOTES — cosmological framing, agent-choice framing, no register shift needed.
+
+4. 6 COMPOSITION PROMPTS — each self-contained, each following the full staging template.
+
+TWO DELIVERABLES, ONE BRIEF (same as Majors and Minors):
+This document describes the PREVIZ STAGE only — tabletop puppet photography. The eventual finished illustration style (Dahomey appliqué, Krobo beadwork, manga face readability) appears at the bottom of each card under FINAL ILLUSTRATION TARGET and should NOT influence the previz render.
+
+
+CHASSIS INHERITANCE NOTE
+
+Before generating any cover or back from this file, paste the SHARED CHASSIS section from the Major Arcana document at the top of your session. That chassis defines:
+- Puppet-mode previz framing (tabletop maquette, not character illustration)
+- Wooden artist's puppets with visible ball joints
+- Articulated wooden hand mannequins with individual posable fingers
+- Sculpted wooden heads with jawline, chin, nose ridge, and shallow indented eye sockets (no painted features)
+- The AVOID list (anime, character render, 3D model, smooth CGI skin, etc.)
+- The four reusable rigs (A: Throne, B: Mirror, C: Cosmic Emblem, D: Transformation), plus Rig E from the Minor Arcana brief
+
+Then paste the COVER & BACK SPECIFIC NOTES below.
+
+Then paste the relevant composition prompt.
+
+For any composition that includes the deck border (all cover options and both back options), also paste the BORDER PHYSICAL SPEC paragraph from the BORDER SPECIFICATION document.
+
+
+COVER & BACK SPECIFIC NOTES — PASTE SECOND
+
+DESIGN INTENT:
+The cover and back must signal "this is the whole deck" — the foundational cosmological logic of Children of Mawu-Lisa, compressed into a single image. Unlike individual cards, the cover/back is not narrating a meaning — it is announcing the deck itself.
+
+The cover designs explore the theme of duality. Mawu-Lisa is shown as both male and female, yet separate or unified depending on the composition. One side is linked to the sun, the other to the moon. The serpent Aido-Hwedo (who wraps around the earth) appears in some of the designs.
+
+AGENT-CHOICE FRAMING:
+Four cover options are presented as a slate for the agent to choose from. They are not progressive iterations — each represents a different statement about the deck:
+- Cover Option A (Sketch 1): One being split anatomically — duality made flesh, surrounded by the serpent's protective embrace
+- Cover Option B (Sketch 2): Mawu and Lisa standing back-to-back, spines touching, each facing their own elemental domain — duality as intimacy through opposition
+- Cover Option C (Sketch 3): One unified figure expressing duality through paint and adornment — duality embodied
+- Cover Option D (Sketch 4): The serpent and the earth — duality as cosmological framework, no figures
+
+Two back options are presented:
+- Back Option A (Sketch 5): Sun-Moon Half Emblem — duality as a single divided emblem, deep indigo field
+- Back Option B (Sketch 6): Aido-Hwedo Ouroboros — serpent biting tail around the earth, pale sky blue field
+
+REGISTER:
+The cover is the most monumental composition in the deck — closer in register to the Major Arcana (deity portraits) than to the Minor Arcana (everyday spirits). The puppets here represent Mawu and Lisa themselves, not stand-ins. Render with the dignity of the deities they portray.
+
+The back is purely emblematic — no figures, no narrative. The puppets are absent; the composition is pure symbol.
+
+CONCERN FLAG FOR COVER OPTION A:
+Cover Option A (Sketch 1) presents a more contemplative, devotional register than the other three cover options. Its strength is its literal embodiment of duality through split anatomy — a single body, half-Mawu, half-Lisa, embraced by the cosmic serpent. Its risk is that the seated/standing meditative pose may read quieter than the agent expects from a deck cover. This option is included for its conceptual depth; the agent should weigh whether its register communicates "cover" effectively against the more declarative compositions of Options B, C, and D.
+
+BORDER FOR ALL SIX COMPOSITIONS:
+Every cover and back composition uses the same physical border element built into the maquette. Append the BORDER PHYSICAL SPEC paragraph from the BORDER SPECIFICATION document to the AI VISUALIZATION GUIDANCE of each composition.
+
+
+COMPOSITION 1 — COVER OPTION A (Split-Body Mawu-Lisa with Serpent Embrace)
+Source: Sketch 1
+Rig: A — Throne / Icon (variant: standing, not seated)
+
+SCENE PURPOSE:
+Mawu-Lisa as one being in two forms — duality made flesh through anatomical split, embraced and protected by the cosmic serpent Aido-Hwedo. The deck's foundational thesis: divinity is rarely singular.
+
+ENVIRONMENT:
+Vertical gradient backdrop, painted-paper. Deep indigo on the left half, transitioning to warm ochre/red on the right half along a clean centerline. The seam where the two halves meet runs through the exact center of the frame, aligning with the figure's anatomical split.
+
+CAMERA:
+Straight-on frontal medium shot. Eye level with the figure's chest. No tilt. Symmetrical, ceremonial framing.
+
+CHARACTER ACTION:
+A single wooden puppet standing frontally, with anatomical split down the centerline. The puppet's body is divided vertically: left half is Mawu (woman), right half is Lisa (man). The wooden head shows both halves meeting — long-hair styling on the Mawu side, shorter-hair styling on the Lisa side. Both wooden hands cupped together at waist level cradling a small calabash prop.
+
+FOCAL POINT:
+The combined sun-moon hybrid halo behind the figure's head (moon on left, sun on right), then the calabash held at the center.
+
+SPATIAL BLOCKING:
+Centered vertical composition. Figure occupies the central column, taking up the lower two-thirds of frame. Sun-moon halo behind the head extends into the upper-third. Serpent (Aido-Hwedo) curves in an S-shape — C-curve over the upper-left around the figure's left shoulder, reverse-C below at the figure's right side — forming an embracing serpentine frame around the figure.
+
+OBJECT POSITIONING:
+Calabash centered on the body's centerline at waist level, cupped between both wooden hands. Sun-moon halo directly behind the head, centered, with moon on screen-left half and sun on screen-right half. Aido-Hwedo serpent in S-curve: serpent head visible at upper-screen-left coming over the figure's left shoulder; body curves down and around through the lower-screen-right area; tail visible at lower-screen-right.
+
+COMPOSITION NOTES:
+Strict bilateral split. Every element on the left half has its inverse on the right half:
+- Left half: indigo backdrop, Mawu's woman face/hair, moon halo half, cool silver/white/pale blue cloth scraps
+- Right half: ochre backdrop, Lisa's man face/hair, sun halo half, warm gold/red/ochre cloth scraps
+The serpent's S-curve is the only asymmetric element, providing graceful contrast against the strict centerline split.
+
+LIGHTING:
+Split warm/cool dual lighting, mirroring the Lovers card logic but on a single figure. Cool blue key from screen-left lights Mawu's side of the puppet. Warm amber key from screen-right lights Lisa's side. Lights cross at the centerline — the meeting point is where the split happens. Soft neutral light catches the calabash at center.
+
+SYMBOLIC OBJECTS:
+- Split-body wooden puppet (Mawu left / Lisa right)
+- Calabash prop cupped at waist level
+- Sun-moon hybrid halo behind head (moon left half, sun right half)
+- Aido-Hwedo serpent in S-curve embrace around the figure
+- Cool/warm split cloth scraps as garment
+
+MOOD / INFLUENCE:
+Devotional, contemplative, sacred. The deck's cosmological core stated as a single image.
+
+READABILITY GOAL:
+The viewer must read this as "two principles, one being." Silhouette at thumbnail: vertical centered figure with split halo at top, serpent curving around it.
+
+PERSPECTIVE GRID:
+1-point perspective with vanishing point dead-centered behind the figure's head. Horizon centered.
+
+CHARACTER ORIENTATION:
+Front view. Wooden torso facing camera. Wooden head straight, divided down the centerline. Wooden hands cupped together at waist level on centerline.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Wooden artist's puppet posed standing, with cloth scraps applied to split the body vertically: cool silver/white/pale blue on the wooden left side, warm gold/red/ochre on the wooden right side
+- The wooden head can be subtly painted on each half — cool wash on the left, warm wash on the right — without painting facial features
+- Hair styling: small cloth or paper extensions for "long hair" on the left (Mawu), shorter or absent on the right (Lisa)
+- Small clay calabash prop cupped between articulated wooden hands at waist
+- Sun-moon hybrid halo cutout (white foamcore for moon half, foil-laminated ochre paper for sun half) suspended behind the head
+- Coiled rope or thick painted cord serpent prop arranged in an S-curve around the figure, secured with monofilament or museum putty
+- Two-toned painted-paper backdrop split indigo/ochre at the vertical centerline
+- Split-gel lighting: blue gel screen-left, amber gel screen-right
+
+LAYERED CUTOUT IDEAS:
+Five planes — (1) indigo/ochre split backdrop, (2) sun-moon halo behind head, (3) split-body wooden puppet with calabash, (4) serpent in S-curve embrace, (5) physical border frame (outermost plane).
+
+ACRYLIC GRID SUGGESTION:
+Strict centerline vertical axis. Calabash on horizontal midline. Halo on upper-third horizontal. Serpent head on upper-third intersection (screen-left); serpent tail on lower-third intersection (screen-right).
+
+COLORED GEL LIGHTING:
+CTB blue gel screen-left key. CTO amber gel screen-right key. Both at equal intensity. Optional faint lavender accent on the calabash at center to mark the meeting point as sacred.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A single wooden artist's puppet with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and a sculpted wooden head with a defined jawline, chin, nose ridge, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips), posed standing frontally. The puppet's body is split vertically down the centerline: screen-left half draped in cool silver, white, and pale blue cloth scraps (Mawu); screen-right half draped in warm gold, red, and ochre cloth scraps (Lisa). Long cloth or paper hair extension on the screen-left side; short or no hair on the screen-right side. Both wooden hands cupped together at waist level cradling a small clay calabash prop on the centerline. Behind the puppet's head, a hybrid sun-moon halo cutout (white foamcore crescent moon on the screen-left half, foil-laminated ochre paper sun rays on the screen-right half) suspended on fishing line. A coiled rope serpent prop painted Aido-Hwedo curls around the figure in an S-shape: serpent head visible at upper-screen-left over the figure's left shoulder, body curving down and around to the lower-screen-right where the tail rests. Painted-paper backdrop split indigo (screen-left) and ochre (screen-right) at a vertical centerline. Split lighting: blue CTB gel lamp camera-left, amber CTO gel lamp camera-right, meeting at the centerline. Bilateral symmetrical composition, frontal eye-level medium shot. Title "CHILDREN OF MAWU-LISA" in a horizontal banner at the TOP of the card, above the figure's halo, in black serif capital letters. The card is framed by a tabletop physical border element: clean rectangular black line frame with modest gold or ochre coiled-serpent curl ornaments at all four corners, mounted as the outermost plane in front of the puppet stage. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European Art Nouveau botanical border, ornate floral filigree, aged parchment, weathered paper, two separate figures embracing, romantic embrace, photographic realism.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold silhouettes, the split-body figure rendered with clean vertical division, sun-moon halo in graphic appliqué shapes, and stylized Aido-Hwedo with two-toned scale patterning. Do not render that style at the previz stage.
+
+
+COMPOSITION 2 — COVER OPTION B (Back-to-Back Mawu and Lisa, Mawu Almost Hidden)
+Source: Sketch 2
+Rig: B — Duality / Mirror (back-to-back variant, with rear figure obscured)
+
+SCENE PURPOSE:
+Mawu and Lisa as two principles sharing one center. Their spines touch — they are inseparable — but each faces their own elemental domain. Lisa stands forward and dominates the composition; Mawu stands almost entirely hidden behind him, her presence signaled only by her profile head turned to screen-left, her moon halo, and a thin sliver of her body emerging at screen-left. Duality as intimacy through opposition, with the moon-bound principle held within the sun-bound principle's silhouette.
+
+ENVIRONMENT:
+Painted-paper backdrop with a vertical split: warm ochre on screen-right (Lisa's side, facing camera) transitioning to deep indigo on screen-left (Mawu's side, where her halo and profile peek out from behind Lisa). Rolling hill or cloud shapes at the lower frame, made from torn paper.
+
+CAMERA:
+Straight-on frontal medium shot. Eye level with Lisa's chest. No tilt. Centered framing on Lisa, with Mawu's profile and moon halo peeking out at screen-left.
+
+CHARACTER ACTION:
+Two wooden puppets. Lisa stands in front, facing camera squarely, his feet together. He holds a small coiled Aido-Hwedo serpent prop in both wooden hands at chest level. Mawu stands directly behind Lisa with her wooden spine touching his, almost fully obscured by Lisa's silhouette from the camera's POV. Her wooden body is rotated 90 degrees from Lisa's — her back faces his back. She is posed in a casual contrapposto stance (one wooden hand on her screen-facing hip, the other wooden arm relaxed at her side, weight settled into one leg with the other knee slightly relaxed, feet naturally apart) — but the camera sees almost none of this because Lisa's silhouette covers her body. What IS visible to the camera: her wooden head turned in profile facing screen-left, peeking out past Lisa's screen-left shoulder so the camera catches a side view of her face; and a thin sliver of her hip or shoulder line emerging at screen-left to confirm her physical presence behind Lisa.
+
+FOCAL POINT:
+The held serpent at Lisa's chest level — small enough to be a single emblem, large enough to read as Aido-Hwedo. Secondary focal point: Mawu's profile face and moon halo visible at screen-left past Lisa's shoulder.
+
+SPATIAL BLOCKING:
+Lisa centered, frontal, dominates the composition — his silhouette fills the central column from feet to head and almost fully obscures Mawu behind him. Mawu is positioned directly behind Lisa with her spine touching his; her body is almost completely hidden by Lisa from the camera POV. What's visible of Mawu: her profile head peeking out past Lisa's screen-left shoulder, and a thin sliver of her hip or shoulder line at screen-left confirming her presence. Sun halo behind Lisa's head, centered on him. Moon halo behind Mawu's head, positioned at screen-left, visible past Lisa's shoulder line. Rolling hill silhouettes at lower-third frame.
+
+OBJECT POSITIONING:
+Coiled serpent prop held by Lisa at chest level on his body centerline. Sun halo cutout directly behind Lisa's wooden head, centered on Lisa's body. Moon halo cutout behind Mawu's wooden head at screen-left, sized similarly to the sun halo, visible past Lisa's shoulder line. Mawu's wooden hands are posed (one on hip, one at side) but mostly hidden by Lisa's body — only a thin sliver of her hip or shoulder emerges at screen-left. Rolling hill shapes spread across lower-third frame.
+
+COMPOSITION NOTES:
+Asymmetric balance through back-to-back staging with Mawu almost fully obscured. Lisa is the dominant centered silhouette and visually carries the composition; Mawu's profile head and moon halo at screen-left, plus a thin sliver of body emerging behind Lisa, are the only confirmations of her presence. The two figures share one centerline at the spine — that touch is invisible to the viewer but it's what holds the composition together. Cool/warm cloth scraps echo Mawu-Lisa duality (Mawu in cool tones, Lisa in warm tones), but only Mawu's halo and small visible portions read cool to the camera. They cannot turn to face each other because their backs are joined — they ARE together rather than choosing to be together. The composition asks the viewer to read Mawu's presence partly through implication rather than full visibility.
+
+LIGHTING:
+Split warm/cool dual lighting. Warm amber key from camera-right at low angle lights Lisa from the front. Cool blue key from screen-left lights Mawu's profile head and the visible sliver of her body at screen-left. The two lights cross behind the figures (where the spines touch) and don't compete on either figure's face.
+
+SYMBOLIC OBJECTS:
+- Small coiled Aido-Hwedo serpent prop held by Lisa at chest
+- Sun halo cutout behind Lisa's head (screen-center)
+- Moon halo cutout behind Mawu's head (screen-left, visible past Lisa's shoulder)
+- Cool cloth scraps for Mawu (mostly hidden behind Lisa), warm cloth scraps for Lisa
+- Rolling hill silhouettes at lower frame
+
+MOOD / INFLUENCE:
+Intimate, inseparable, two who travel in opposite directions while sharing one body. The most profound expression of the deck's duality — they cannot turn to face each other because their backs are joined, and Mawu is mostly hidden because she travels within Lisa's silhouette. Her presence is felt more than seen.
+
+READABILITY GOAL:
+The viewer must feel two principles unified at the spine — Lisa dominant and forward-facing, Mawu almost hidden behind him with only her profile and moon halo signaling her presence. Silhouette at thumbnail: one tall figure centered with a profile head and crescent halo peeking out at screen-left, two halos at upper frame (sun centered, moon offset).
+
+PERSPECTIVE GRID:
+1-point perspective, low horizon at the hill line. Vanishing point centered behind Lisa at chest level.
+
+CHARACTER ORIENTATION:
+Lisa: front view, wooden torso square to camera, feet together. Mawu: rear/profile orientation behind Lisa, wooden torso rotated 90 degrees from Lisa's (her back to his back), wooden head in profile facing screen-left, feet slightly apart in contrapposto. Most of Mawu's body is hidden behind Lisa from camera POV; only her profile head and a sliver of her side emerge at screen-left.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Two wooden artist's puppets with full posable joints
+- Lisa puppet: standing center, facing camera, feet together, draped in warm gold/red/ochre cloth scraps, holding a small coiled cord serpent prop in both wooden hands at chest level
+- Mawu puppet: positioned directly behind Lisa with spines touching, body almost fully hidden behind Lisa's silhouette from the camera POV. Wooden body rotated so her back faces Lisa's back. Wooden head turned in profile facing screen-left, peeking out past Lisa's screen-left shoulder so the camera catches her side view. One wooden hand rests on her screen-facing hip; the other wooden arm relaxes at her side. Feet slightly apart in casual contrapposto stance. Draped in cool silver/white/pale blue cloth scraps. Only a thin sliver of her body (hip, shoulder, or thigh line) should emerge past Lisa's silhouette at screen-left to confirm her physical presence behind him
+- Sun halo cutout (foil-laminated ochre paper) suspended directly behind Lisa's wooden head, centered on Lisa
+- Moon halo cutout (white foamcore crescent) suspended behind Mawu's wooden head at screen-left, visible past Lisa's shoulder
+- Rolling torn-paper hill silhouettes arranged across lower frame as foreground/midground transition
+- Painted-paper backdrop split warm ochre (screen-right where Lisa faces) and deep indigo (screen-left where Mawu's halo and profile peek out)
+- Warm amber lamp camera-right at low angle for Lisa's key; cool blue lamp camera-left for Mawu's profile key
+
+LAYERED CUTOUT IDEAS:
+Seven planes — (1) ochre/indigo split backdrop, (2) moon halo behind Mawu at screen-left, (3) Mawu puppet in profile (mostly hidden behind Lisa, only profile head and sliver of body visible at screen-left), (4) sun halo behind Lisa centered, (5) Lisa puppet with serpent prop (dominant front silhouette), (6) rolling hill foreground silhouettes, (7) physical border frame (outermost).
+
+ACRYLIC GRID SUGGESTION:
+Asymmetric grid. Lisa's body aligned to vertical center axis, dominating the composition. Mawu's profile head and moon halo aligned to screen-left vertical thirds line. Lisa's face on upper-third horizontal at center. Mawu's profile face on upper-third horizontal at screen-left third, peeking past Lisa's shoulder. Serpent at horizontal midline. Sun halo behind Lisa, centered. Moon halo behind Mawu at screen-left. Thin sliver of Mawu's body emerging behind Lisa at screen-left. Hill silhouettes on lower-third horizontal.
+
+COLORED GEL LIGHTING:
+CTO amber key camera-right at low angle, lighting Lisa as the dominant figure. CTB blue key camera-left, focused on Mawu's profile head and the visible sliver of her body at screen-left. The amber side is stronger because Lisa visually dominates; the blue side is more concentrated on Mawu's small visible portion. The lights cross behind the figures where their spines meet.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. Two wooden artist's puppets with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and sculpted wooden heads with defined jawlines, chins, nose ridges, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips). The Lisa puppet stands at center, facing camera squarely with feet together, draped in warm gold, red, and ochre cloth scraps, holding a small coiled cord serpent prop (painted Aido-Hwedo) in both wooden hands at chest level. Lisa dominates the composition — his silhouette fills the central column from feet to head. The Mawu puppet stands directly behind Lisa with her wooden spine touching his, almost fully obscured by Lisa's silhouette from the camera POV. Mawu's wooden body is rotated 90 degrees from Lisa's — her back faces his back. She is posed in a casual contrapposto stance (one wooden hand on her screen-facing hip, the other wooden arm relaxed at her side, feet naturally apart) — but Lisa's silhouette covers most of her body. What is visible to the camera: her wooden head turned in profile facing screen-left, peeking out past Lisa's screen-left shoulder so the camera catches a side view of her face; and a thin sliver of her hip or shoulder line emerging at screen-left to confirm her physical presence. She is draped in cool silver, white, and pale blue cloth scraps. Foil-laminated ochre paper sun halo cutout suspended directly behind Lisa's wooden head, centered on Lisa. White foamcore crescent moon halo cutout suspended behind Mawu's wooden head at screen-left, visible past Lisa's shoulder. Torn paper rolling hill silhouettes across the lower frame. Painted-paper backdrop split warm ochre (screen-right, where Lisa faces) and deep indigo (screen-left, where Mawu's halo and profile peek out) at a vertical centerline behind Lisa. Warm amber CTO key lamp camera-right at low angle for Lisa; cool blue CTB key lamp camera-left for Mawu's profile. Asymmetric composition with Lisa dominant at center and only Mawu's profile head, moon halo, and a thin sliver of body visible at screen-left. Frontal medium shot, eye level. Title "CHILDREN OF MAWU-LISA" in a horizontal banner at the BOTTOM of the card in black serif capital letters. The card is framed by a tabletop physical border element: clean rectangular black line frame with modest gold or ochre coiled-serpent curl ornaments at all four corners, mounted as the outermost plane in front of the puppet stage. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European Art Nouveau botanical border, ornate floral filigree, aged parchment, weathered paper, romantic embrace, kissing, peering over shoulder, two figures facing same direction, second figure fully visible alongside first, two equal-prominence figures side by side, photographic realism, separate figures with no spatial relationship.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, single dominant front figure (Lisa) with a partial profile figure (Mawu) emerging at screen-left, dual halos in appliqué shapes (sun centered behind front figure, moon offset behind profile head), and stylized rolling hill silhouettes. Do not render that style at the previz stage.
+
+
+COMPOSITION 3 — COVER OPTION C (Single Figure with Split Markings)
+Source: Sketch 3
+Rig: A — Throne / Icon (variant: standing, not seated)
+
+SCENE PURPOSE:
+One figure, one body, dual nature — duality expressed through paint and adornment rather than anatomy. The most subtle of the cover options. Says: divinity in two natures is not always two beings.
+
+ENVIRONMENT:
+Painted-paper backdrop, vertical split: deep indigo on the left half transitioning to warm ochre on the right half. Rolling hill silhouettes at lower frame, same treatment as Cover Option B.
+
+CAMERA:
+Straight-on frontal medium-full shot. Eye level. The figure is taller and more elongated in framing than in the other cover options — closer to a full-length portrait.
+
+CHARACTER ACTION:
+A single wooden puppet standing frontally, tall and elongated in pose. Wooden hands resting at the puppet's sides (not holding anything). Wooden head straight, facing camera. The body is NOT anatomically split (unlike Cover Option A) — it is a unified single body, but it expresses duality through paint and adornment.
+
+FOCAL POINT:
+The wooden head with its split face markings, then the combined sun-moon halo behind the head.
+
+SPATIAL BLOCKING:
+Centered vertical composition. The single figure occupies the central column, taking up the full height of the inner frame from feet to halo. Backdrop divides vertically behind the figure. Hill silhouettes at lower frame.
+
+OBJECT POSITIONING:
+Combined sun-moon halo directly behind the wooden head, centered. The halo is rendered as a single radial form with paper sun rays on the screen-right half and a white foamcore crescent moon on the screen-left half, meeting at the centerline. Wooden hands resting at the puppet's sides.
+
+COMPOSITION NOTES:
+Single tall vertical silhouette. The duality is concentrated in the FACE PAINT and the ADORNMENT, not in the body shape:
+- Face markings: White clay moon-phase dots painted on the screen-left half of the wooden face; ochre sun motifs painted on the screen-right half
+- Asymmetric headpiece: A cloth wrap or paper crown with moon emblem on the screen-left side and sun emblem on the screen-right side
+- Different beadwork on each wooden wrist: cool silver/white beads on the screen-left wrist, warm gold/ochre beads on the screen-right wrist
+- Garments: Cloth scraps split cool/warm down the body centerline, joining at the chest seam — the cool side on screen-left, warm side on screen-right
+
+LIGHTING:
+Even split warm/cool dual lighting, same logic as Cover Option A but more subtle. Cool blue key from screen-left lights the cool side of the figure. Warm amber key from screen-right lights the warm side. Less dramatic crossing than Option A — more like ambient bi-directional light than two distinct beams.
+
+SYMBOLIC OBJECTS:
+- Combined sun-moon halo (sun rays right, crescent moon left)
+- Split face markings (moon dots left, sun motifs right) painted on the wooden head
+- Asymmetric headpiece with moon and sun emblems
+- Split-color beadwork at each wrist
+- Cool/warm split cloth-scrap garments
+
+MOOD / INFLUENCE:
+Unified, ceremonial, rooted in West African body-marking tradition. Less declarative than Option A's anatomical split, more layered through symbol.
+
+READABILITY GOAL:
+The viewer must read this as "one being with two natures." Silhouette at thumbnail: single tall figure with combined halo and clearly split face/body coloring.
+
+PERSPECTIVE GRID:
+1-point perspective, vanishing point centered behind the figure. Horizon centered or slightly low.
+
+CHARACTER ORIENTATION:
+Front view. Wooden torso square to camera. Wooden head straight. Wooden hands at sides. Total bilateral symmetry except for the split coloring/ornament.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Single wooden artist's puppet in standing pose
+- The wooden head: paint white clay moon-phase dots on the screen-left half of the face; paint small ochre sun motifs on the screen-right half (mark directly on the bare wooden surface — these are the card-specific markings allowed by the chassis)
+- Cloth scraps wrapped around the body: cool silver/white/pale blue on the puppet's screen-left half (vertical seam down the centerline), warm gold/red/ochre on the screen-right half
+- Headpiece: a cloth wrap with a small foamcore crescent moon emblem on the screen-left and a small foil-laminated paper sun emblem on the screen-right
+- Bead strings at each wooden wrist: cool-toned beads on the screen-left wrist, warm-toned beads on the screen-right wrist
+- Combined halo: half-crescent-moon cutout (screen-left) and half-sun-rays cutout (screen-right) joined at the centerline, suspended behind the wooden head
+- Painted-paper backdrop split indigo (screen-left) and ochre (screen-right)
+- Cool blue CTB lamp screen-left, warm amber CTO lamp screen-right, at equal intensity
+
+LAYERED CUTOUT IDEAS:
+Five planes — (1) indigo/ochre split backdrop, (2) combined sun-moon halo, (3) single wooden puppet with split markings and split garments, (4) rolling hill silhouettes foreground, (5) physical border frame (outermost).
+
+ACRYLIC GRID SUGGESTION:
+Strict centerline vertical axis. Wooden face on upper-third horizontal. Halo center directly behind face. Combined-halo split meeting point on centerline. Hands at sides on horizontal midline (or slightly below). Hill silhouettes on lower-third horizontal.
+
+COLORED GEL LIGHTING:
+CTB blue gel lamp screen-left. CTO amber gel lamp screen-right. Equal intensity. Crossing fills the figure evenly. Optional faint white accent light from straight front to ensure the central seam of the figure (where cool and warm meet) is legible.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade puppet scene on a small physical stage. A single tall wooden artist's puppet with visible ball joints, articulated wooden hand mannequins attached at the wrists with individual posable fingers, and a sculpted wooden head with a defined jawline, chin, nose ridge, and shallow indented eye sockets (lay-figure or stop-motion armature style; sculpted facial geometry only, with no painted features such as irises, eyebrows, or lips). The wooden head is painted with white clay moon-phase dots on the screen-left half of the face and small ochre sun motifs on the screen-right half. The body is NOT anatomically split — it is one unified body. Cloth scraps drape the puppet in a vertical split: cool silver, white, and pale blue on the screen-left half; warm gold, red, and ochre on the screen-right half — joining at a centerline seam. The headpiece is a cloth wrap with a small white foamcore crescent moon emblem on the screen-left side and a small foil-laminated paper sun emblem on the screen-right side. Cool silver-tone bead string at the screen-left wrist; warm gold-tone bead string at the screen-right wrist. Wooden hands rest at the puppet's sides. A combined sun-moon halo cutout (foamcore crescent moon on the screen-left half meeting foil-laminated paper sun rays on the screen-right half) is suspended directly behind the wooden head, centered. Torn paper rolling hill silhouettes across the lower frame. Painted-paper backdrop split indigo (screen-left) and ochre (screen-right) at vertical centerline. Even split lighting: CTB blue gel lamp screen-left, CTO amber gel lamp screen-right, at equal intensity. Frontal full-length medium shot, eye level. Title "CHILDREN OF MAWU-LISA" in a horizontal banner at the BOTTOM of the card in black serif capital letters. The card is framed by a tabletop physical border element: clean rectangular black line frame with modest gold or ochre coiled-serpent curl ornaments at all four corners, mounted as the outermost plane in front of the puppet stage. Render as set photography, not as character illustration.
+
+NEGATIVE PROMPTS:
+anime, manga character render, 3D character model, stylized human figure, smooth CGI skin, illustrated character, finished illustration, mitten hands, fused fingers, blob hands, fingerless puppet hands, painted anime face, painted character features, drawn-on eyes, drawn-on eyebrows, faceless puppet head, European Art Nouveau botanical border, ornate floral filigree, aged parchment, weathered paper, two separate figures, anatomical body split, photographic realism, generic robed figure.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, single full-length figure with painted split face markings, combined sun-moon halo in appliqué shapes, asymmetric ornament details, and stylized split garments. Do not render that style at the previz stage.
+
+
+COMPOSITION 4 — COVER OPTION D (Aido-Hwedo Embrace with Earth)
+Source: Sketch 4
+Rig: C — Cosmic Emblem (variant: serpent embrace, not closed ouroboros)
+
+SCENE PURPOSE:
+The deck as cosmology — vast, mythic, the world held together by the cosmic serpent. No figures. This composition states the deck's elemental framework: Aido-Hwedo and the earth he wraps.
+
+ENVIRONMENT:
+Deep cosmic space background: painted-paper backdrop in deep indigo-to-black, with scattered painted star dots and one or two faint nebula wisps in pale lavender or pale blue. The cosmic space distinguishes this cover from the back design (which uses a flat indigo field for the sun-moon emblem).
+
+CAMERA:
+Perfect frontal. Camera dead-on, perpendicular to the composition. No tilt, no angle. The serpent and earth must read as a flat mythic emblem.
+
+CHARACTER ACTION:
+None. The serpent prop is the action — wrapping around the earth in an embracing curve (NOT a closed ouroboros ring — the serpent embraces, but tail and mouth do not meet).
+
+FOCAL POINT:
+The earth disc at the composition's center, then the serpent's body coiling around it.
+
+SPATIAL BLOCKING:
+Centered composition. The earth disc occupies the geometric center of the frame, sized at approximately 1/4 to 1/3 the card width. The serpent curls around the earth in an embracing curve — the serpent's body wraps from upper-screen-left, down across the lower-frame, around to upper-screen-right, but does NOT close the loop (tail and mouth remain visible and separate, suggesting protection rather than eternal cycle).
+
+OBJECT POSITIONING:
+Earth disc centered. Serpent's head visible at upper-screen-left, looking toward the earth. Serpent's body wraps protectively around the earth in a graceful arc. Serpent's tail visible at upper-screen-right or lower-screen-right. Scattered star dots fill the surrounding cosmic space. Title placement: "CHILDREN OF MAWU-LISA" inside the embracing curve, below the earth disc, in the negative space created by the serpent's S-shape.
+
+COMPOSITION NOTES:
+Radial composition with the earth as the visual anchor. The serpent's curve creates a frame within the frame, holding the earth and the title together as one unit. The serpent's body should be two-toned: one half cool indigo (Mawu's side), one half warm ochre (Lisa's side), echoing the deck's foundational duality at the largest scale.
+
+LIGHTING:
+Cosmic glow lighting. Soft light emanating from the center outward (the earth at center has a slight inner glow), with the serpent catching highlights along its top edge. Background stays cosmic dark. No directional key from off-stage — this is symbolic light, not staged drama.
+
+SYMBOLIC OBJECTS:
+- Coiled rope or thick painted cord as Aido-Hwedo, in embracing S-curve (NOT closed ouroboros)
+- Earth disc at center — small painted clay disc or cardboard cutout, painted to suggest globe form
+- Scattered star dots painted on the cosmic backdrop
+- Optional one or two faint pale-blue or lavender nebula wisps in the deep background
+
+MOOD / INFLUENCE:
+Vast, eternal, mythic. The most cosmologically pure of the cover options. The serpent who holds the world.
+
+READABILITY GOAL:
+The viewer must feel cosmic protection. Silhouette at thumbnail: small disc at center surrounded by a curving serpent against a starry field.
+
+PERSPECTIVE GRID:
+No perspective. Pure flat emblem. Centered, no horizon, no vanishing points. Cosmic space is depthless.
+
+ORIENTATION:
+Frontal flat emblem. No 3D rotation. Serpent and earth wrap in a plane parallel to the camera.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Coiled rope or thick painted cord, arranged in an S-shape embrace around a small clay or cardboard earth disc placed at the geometric center of a dark cloth tabletop
+- The rope/cord painted two-toned: one half cool indigo (Mawu's side, screen-left of the composition), one half warm ochre (Lisa's side, screen-right)
+- Earth disc: a small painted clay disc or cardboard cutout, painted in deep green and ochre tones to suggest globe form, sized approximately 1/4 to 1/3 the frame width
+- Dark cosmic backdrop: deep indigo-to-black painted paper or fabric, with painted star dots scattered across and one or two faint pale-blue or lavender nebula wisps brushed in
+- Soft overhead light rig with a diffuser
+- Optional small LED tucked behind the earth disc for inner glow effect
+
+LAYERED CUTOUT IDEAS:
+Four planes — (1) cosmic backdrop with star dots and nebula wisps, (2) serpent rope in S-curve embrace, (3) earth disc at center, (4) physical border frame (outermost).
+
+ACRYLIC GRID SUGGESTION:
+Centered geometric grid. Earth disc at exact center. Serpent's head on upper-third intersection (screen-left). Serpent's tail on upper-third or lower-third intersection (screen-right). Title banner in the negative space below the earth, on lower-third horizontal.
+
+COLORED GEL LIGHTING:
+Split the serpent rope lighting: cool blue gel on the Mawu half of the serpent (screen-left), warm amber on the Lisa half (screen-right). Soft white ambient on the earth disc at center. Background stays unlit cosmic dark — let the painted star dots catch ambient bounce only.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade overhead diorama. A thick painted rope coiled into an S-shaped embrace (NOT a closed ouroboros ring) around a small clay or cardboard earth disc placed at the geometric center of a dark cloth tabletop. The rope is painted two-toned: one half cool indigo (screen-left, Mawu's side), one half warm ochre (screen-right, Lisa's side). The serpent's head is visible at the upper-screen-left, looking toward the earth disc; the serpent's body curves down across the lower-frame, around to the upper-screen-right, where the tail rests visible and separate from the head (the embrace is open, not closed). The earth disc at center is painted in deep green and ochre tones to suggest globe form, sized approximately 1/4 to 1/3 the frame width. Deep indigo-to-black painted-paper cosmic backdrop with scattered painted star dots and one or two faint pale-blue or lavender nebula wisps. Soft overhead diffused lighting with split gels: blue on the indigo serpent half, amber on the ochre serpent half. Optional small inner glow at the earth disc. Perfect frontal radial composition, no perspective, no figures. Title "CHILDREN OF MAWU-LISA" inside the embracing curve, below the earth disc, in black serif capital letters within the negative space. The card is framed by a tabletop physical border element: clean rectangular black line frame with modest gold or ochre coiled-serpent curl ornaments at all four corners, mounted as the outermost plane in front of the cosmic emblem stage. Render as overhead set photography, not as illustration.
+
+NEGATIVE PROMPTS:
+realistic snake, 3D rendering, anime, character illustration, finished illustration, dynamic angle, cluttered iconography, human figures, closed ouroboros ring, serpent biting its own tail (reserve that for the back design), European Art Nouveau botanical border, ornate floral filigree, aged parchment, weathered paper, photorealistic earth globe, NASA photography.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, stylized serpent with two-toned scale pattern, graphic earth-disc emblem, and bold cosmic field treatment. Do not render that style at the previz stage.
+
+
+COMPOSITION 5 — BACK OPTION A (Sun-Moon Half Emblem)
+Source: Sketch 5
+Rig: C — Cosmic Emblem (variant: pure flat duality emblem)
+
+SCENE PURPOSE:
+The back of the deck shown 78 times during a reading. A pure emblematic distillation of Mawu-Lisa duality: a single divided circle, half sun, half moon. No serpent, no figures, no narrative — just the deck's foundational symbol.
+
+ENVIRONMENT:
+Solid deep indigo painted-paper backdrop — NO stars, NO nebula, NO cosmic field. Pure flat sacred ground. Calmer than the cover (Cover Option D's cosmic space) so the back can be seen repeatedly without visual fatigue.
+
+CAMERA:
+Perfect frontal. Camera dead-on. No tilt, no angle. The emblem must read as a flat sacred sigil.
+
+CHARACTER ACTION:
+None.
+
+FOCAL POINT:
+The centered sun-moon half emblem. The eye should land on the emblem and rest there — this is a meditation point, not a narrative.
+
+SPATIAL BLOCKING:
+Strictly centered. The half-and-half emblem occupies the geometric center of the card. Emblem sized at approximately 1/3 to 1/2 the card height — large enough to be unmistakable, small enough to leave breathing room of indigo on all sides.
+
+OBJECT POSITIONING:
+Single emblem at center. The emblem is a circle split vertically down the middle:
+- Screen-left half: white foamcore crescent moon shape, OR a half-disc with moon-phase dots and crescent profile
+- Screen-right half: foil-laminated ochre paper sun shape with radiating rays extending outward (the rays extend beyond the basic circle's edge, giving the emblem a star-burst feel on the sun side)
+Where the two halves meet at the vertical centerline, they touch cleanly — no gap, no overlap.
+
+COMPOSITION NOTES:
+Pure bilateral symmetry across the vertical axis. The emblem is the entire composition. Indigo field surrounds the emblem with generous negative space. Symmetry is essential — back-of-card designs must look identical when reversed.
+
+LIGHTING:
+Even soft frontal lighting. No directional key, no drama. Both halves of the emblem are lit equally so neither dominates. Slight inner glow at the centerline where moon meets sun, optional.
+
+SYMBOLIC OBJECTS:
+- Sun-Moon Half Emblem at center
+- Moon half: white foamcore crescent or moon-phase disc
+- Sun half: foil-laminated ochre paper sun with radiating rays
+- NO serpent, NO earth, NO figures, NO corner Trowo symbols
+
+MOOD / INFLUENCE:
+Sacred, meditative, quiet. The back is seen constantly — it must hold up to repeated viewing without exhausting the eye.
+
+READABILITY GOAL:
+The viewer must read this as the deck's signature symbol at any orientation. Silhouette at thumbnail: a centered circle split half-light, half-dark, with radiating rays on one side.
+
+PERSPECTIVE GRID:
+No perspective. Pure flat emblem.
+
+ORIENTATION:
+Frontal flat emblem. Perfectly symmetrical across the vertical centerline so reversed cards look identical.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Solid deep indigo painted-paper or fabric backdrop laid flat on the tabletop stage
+- White foamcore cutout in the shape of a half-circle with a crescent profile, placed on the screen-left half of the emblem position
+- Foil-laminated ochre paper cutout in the shape of a half-circle with radiating rays, placed on the screen-right half of the emblem position
+- The two halves carefully aligned so they meet cleanly at the vertical centerline
+- Overhead even diffused lighting (no directional key)
+- Optional small LED tucked behind the emblem at the meeting line for inner glow
+
+LAYERED CUTOUT IDEAS:
+Three planes — (1) deep indigo backdrop, (2) sun-moon half emblem (built as two adjacent cutouts touching at centerline), (3) physical border frame (outermost).
+
+ACRYLIC GRID SUGGESTION:
+Centered geometric grid. Emblem at exact center, sized 1/3 to 1/2 card height. Centerline of the emblem aligned to the vertical centerline of the card.
+
+COLORED GEL LIGHTING:
+No gels. Even soft white ambient lighting. Both halves lit equally. The colors come from the materials themselves (white foamcore for moon, ochre foil paper for sun), not from the lighting.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade flat emblem composition on a small physical stage. Solid deep indigo painted-paper backdrop with NO stars and NO cosmic texture — pure flat sacred ground. A single emblem centered in the frame: a circle split vertically down the middle. The screen-left half is a white foamcore crescent moon cutout (half-circle with crescent profile). The screen-right half is a foil-laminated ochre paper sun cutout (half-circle with radiating sun rays extending beyond the basic edge). The two halves meet cleanly at the vertical centerline with no gap and no overlap. Generous indigo negative space surrounds the emblem on all sides. Overhead even diffused lighting, no directional key, no gel. NO serpent, NO earth disc, NO figures, NO corner Trowo symbols inside the composition. NO text. The card is framed by a tabletop physical border element: clean rectangular black line frame with modest gold or ochre coiled-serpent curl ornaments at all four corners, mounted as the outermost plane in front of the emblem stage. Render as overhead set photography, not as illustration.
+
+NEGATIVE PROMPTS:
+anime, character illustration, finished illustration, 3D rendering, photographic realism, stars, cosmic field, nebula, figures, human figures, serpent, earth, narrative scene, dynamic angle, asymmetric composition, European Art Nouveau botanical border, ornate floral filigree, aged parchment, weathered paper, text within the emblem area.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, bold graphic emblem treatment, and perfectly symmetrical half-and-half divided circle (sun rays on warm side, crescent moon on cool side). Do not render that style at the previz stage.
+
+
+COMPOSITION 6 — BACK OPTION B (Aido-Hwedo Ouroboros with Earth)
+Source: Sketch 6
+Rig: C — Cosmic Emblem (classic ouroboros)
+
+SCENE PURPOSE:
+The back of the deck shown 78 times during a reading. The cosmic serpent in eternal cycle, holding the world. Matches the master plan's original back-design concept exactly: serpent biting its own tail around the earth.
+
+ENVIRONMENT:
+Pale sky blue painted-paper backdrop — clean, luminous, distinct from Back Option A's deep indigo. Ties to Djo (wind, sky) and provides "open sky" energy for the serpent who lives between earth and heaven.
+
+CAMERA:
+Perfect frontal. Camera dead-on. No tilt, no angle.
+
+CHARACTER ACTION:
+None.
+
+FOCAL POINT:
+The earth disc at the composition's center, encircled by the serpent ring.
+
+SPATIAL BLOCKING:
+Strictly centered. The ouroboros ring occupies the geometric center, sized at approximately 2/3 the card height. The earth disc sits at the very center, sized at approximately 1/3 the card height (so it fits comfortably within the ring with breathing room).
+
+OBJECT POSITIONING:
+Earth disc at exact center. Serpent body wraps in a closed circular ring around the earth, biting its own tail at the top (12 o'clock position) or at the 3 o'clock position — pick one and commit. The serpent's body forms a clean ring; the bite point is where the cycle visibly closes.
+
+COMPOSITION NOTES:
+Pure radial bilateral symmetry. The ouroboros is the most ancient duality emblem — the cycle without beginning or end. The serpent's body should be two-toned: one half cool indigo (Mawu's side, screen-left), one half warm ochre (Lisa's side, screen-right). The two halves meet at the bite point at top and at the bottom of the ring (6 o'clock position).
+
+LIGHTING:
+Even soft frontal lighting. No directional key. Both halves of the serpent ring lit equally. Optional gentle inner glow inside the ring (catching the earth disc) for sacred warmth.
+
+SYMBOLIC OBJECTS:
+- Aido-Hwedo serpent prop in closed ring, biting its tail
+- Earth disc at center (same prop as Cover Option D)
+- NO figures, NO sun-moon emblem, NO stars, NO corner Trowo symbols
+
+MOOD / INFLUENCE:
+Sacred, cyclical, eternal. The ouroboros holds the world.
+
+READABILITY GOAL:
+The viewer must read this as the deck's cyclical heart at any orientation. Silhouette at thumbnail: a clean circle with a smaller disc inside, against a pale field.
+
+PERSPECTIVE GRID:
+No perspective. Pure flat radial.
+
+ORIENTATION:
+Frontal flat emblem. Perfectly symmetrical so reversed cards look identical.
+
+PHYSICAL STAGING APPROACH (maquette):
+- Pale sky blue painted-paper or fabric backdrop laid flat on the tabletop stage
+- Thick painted rope or cord arranged in a clean circle, with one end tucked into the mouth of the other to form the bite point — bite point at the top of the ring at 12 o'clock (recommended) or at 3 o'clock
+- The rope/cord painted two-toned: one half cool indigo (screen-left), one half warm ochre (screen-right) — meeting at the bite point at top and at the bottom of the ring at 6 o'clock
+- Earth disc at the ring's center: same painted clay or cardboard prop from Cover Option D, sized at approximately 1/3 the card height
+- Overhead even diffused lighting
+- Optional small LED inside the ring behind the earth disc for inner glow
+
+LAYERED CUTOUT IDEAS:
+Three planes — (1) pale sky blue backdrop, (2) serpent ring with earth disc inside, (3) physical border frame (outermost).
+
+ACRYLIC GRID SUGGESTION:
+Concentric circle grid centered on frame. Outer ring = serpent body. Inner disc = earth. Center of the entire composition aligned to the geometric center of the card.
+
+COLORED GEL LIGHTING:
+No gels. Even soft white ambient lighting. The two-tone serpent reads through paint, not through lighting. Optional very faint warm spotlight on the earth disc for sacred warmth.
+
+AI VISUALIZATION GUIDANCE:
+Tabletop maquette photography. Visibly handmade flat emblem composition on a small physical stage. Pale sky blue painted-paper backdrop, clean and luminous. A thick painted rope coiled into a perfect closed circle (ouroboros), with the serpent's head biting its own tail at the top of the ring (12 o'clock position). The rope is painted two-toned: one half cool indigo (screen-left), one half warm ochre (screen-right), meeting at the bite point at top and at the bottom of the ring. Inside the ring at the geometric center sits an earth disc — a small painted clay or cardboard cutout in deep green and ochre tones — sized at approximately 1/3 the card height. Overhead even diffused lighting. NO figures, NO sun-moon emblem, NO stars, NO cosmic texture, NO corner Trowo symbols inside the composition. NO text. The card is framed by a tabletop physical border element: clean rectangular black line frame with modest gold or ochre coiled-serpent curl ornaments at all four corners, mounted as the outermost plane in front of the emblem stage. Render as overhead set photography, not as illustration.
+
+NEGATIVE PROMPTS:
+realistic snake, anime, character illustration, finished illustration, 3D rendering, photographic realism, stars, cosmic field, nebula, sun-moon emblem, figures, human figures, dynamic angle, asymmetric composition, deep indigo background, dark background, European Art Nouveau botanical border, ornate floral filigree, aged parchment, weathered paper, text within the emblem area.
+
+FINAL ILLUSTRATION TARGET (for downstream artist reference only — NOT for this previz):
+Eventual finished card will translate this staging into a Dahomey appliqué illustration with flat symbolic color fields, stylized two-toned ouroboros serpent, graphic earth-disc at center, and bold pale sky blue field. Do not render that style at the previz stage.
+
+
+END OF COVER & BACK BATCH
+
+RIG USAGE SUMMARY (COVER & BACK):
+- Rig A (Throne/Icon, standing variant): Cover Option A (split-body figure), Cover Option C (single figure with split markings)
+- Rig B (Duality/Mirror, back-to-back variant): Cover Option B (back-to-back Mawu and Lisa)
+- Rig C (Cosmic Emblem): Cover Option D (serpent embrace), Back Option A (sun-moon emblem), Back Option B (ouroboros with earth)
+
+CROSS-DECK CONSISTENCY NOTES:
+- Cover Option A uses split-gel lighting that echoes the Lovers card (Major Arcana #4) but applies it to a single split-body figure rather than two figures
+- Cover Option B is structurally similar to the Lovers card but with back-to-back figures sharing one spine, rather than mirrored figures facing each other
+- Cover Option C is the deck's most subtle duality statement — preserves the Major Arcana visual chassis (single frontal figure on split background) and concentrates all duality into face paint and ornament
+- Cover Option D and Back Option B both feature Aido-Hwedo around the earth, but the cover serpent EMBRACES (open S-curve) while the back serpent CLOSES (full ouroboros). This distinction is essential — the embrace is protective, the ouroboros is eternal
+- Back Option A is the cleanest deck-back design (smallest visual footprint, calmest field) — strongest candidate if the agent prioritizes a back that doesn't compete with the cards during a reading
+- Back Option B is the most cosmologically rich deck-back design — strongest candidate if the agent wants the back to mirror the cover's serpent imagery
+- All six compositions share the same physical border element, so the border itself is the visual signature that ties the cover and back to the rest of the deck
+
+BORDER REMINDER:
+Every cover and back composition uses the same physical border element built into the maquette stage. See the BORDER SPECIFICATION document for full details. Append the BORDER PHYSICAL SPEC paragraph from that document to the AI VISUALIZATION GUIDANCE of any cover or back prompt.
+
+REFERENCE PRIORITY NOTE (for AI generation):
+Use references for environment accuracy, spatial logic, lighting behavior, prop placement, and compositional inspiration. Do not closely replicate reference compositions. The previz signature is visibly handmade puppet photography for the cover figures (Options A, B, C) and visibly handmade emblem photography for the cosmic compositions (Option D, Backs A and B). The finished illustration style (Dahomey appliqué + Krobo beadwork + manga face readability) is a downstream translation and should not appear in the previz outputs.
